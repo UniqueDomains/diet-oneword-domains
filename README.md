@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DIET one-word domains still available to buy.
 
-This dataset contains 4,833 .DIET one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,832 .DIET one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DIET one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=diet-oneword-domains&utm_content=description.top) (4,833) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.DIET one word domains
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | aaa.diet        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.diet      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.diet      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.diet  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.diet      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.diet  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.DIET one word domains
 | abatic.diet     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.diet    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.diet   | available | 50       | 1%     | 8      |           |         |         |
-| abc.diet        | available | 102      | 41%    | 3      |           |         |         |
+| abc.diet        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.diet  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.diet  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.diet | available | 56       | 1%     | 10     |           |         |         |
