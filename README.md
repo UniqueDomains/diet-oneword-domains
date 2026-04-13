@@ -65,10 +65,10 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | power.diet      | available | $159.98   | —             | 98             | 62     | 5      | namecheap       |
-| fast.diet       | resell    | —         | —             | 82             | 53     | 4      | 1API GmbH       |
+| true.diet       | resell    | —         | —             | 86             | 52     | 4      | 1API GmbH       |
 | converse.diet   | premium   | $2,600    | $2,600        | 64             | 73     | 8      | namecheap       |
 | seventeen.diet  | available | $159.98   | —             | 84             | 62     | 9      | namecheap       |
-| true.diet       | resell    | —         | —             | 86             | 52     | 4      | 1API GmbH       |
+| fast.diet       | resell    | —         | —             | 82             | 52     | 4      | 1API GmbH       |
 | nationwide.diet | premium   | $2,600    | $2,600        | 76             | 66     | 10     | namecheap       |
 | live.diet       | available | $159.98   | —             | 108            | 56     | 4      | namecheap       |
 | top.diet        | resell    | —         | —             | 82             | 48     | 3      | Key-Systems LLC |
@@ -80,10 +80,10 @@ print(df.head())
 | awesome.diet    | resell    | —         | —             | 98             | 44     | 7      | 1API GmbH       |
 | alpha.diet      | premium   | $2,600    | $2,600        | 90             | 53     | 5      | namecheap       |
 | athletics.diet  | available | $159.98   | —             | 69             | 52     | 9      | namecheap       |
-| daily.diet      | resell    | —         | —             | 74             | 40     | 5      | 1API GmbH       |
+| christian.diet  | resell    | —         | —             | 78             | 39     | 9      | 1API GmbH       |
 | art.diet        | premium   | $2,600    | $2,600        | 90             | 52     | 3      | namecheap       |
 | game.diet       | available | $159.98   | —             | 120            | 50     | 4      | namecheap       |
-| christian.diet  | resell    | —         | —             | 78             | 38     | 9      | 1API GmbH       |
+| daily.diet      | resell    | —         | —             | 74             | 39     | 5      | 1API GmbH       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
