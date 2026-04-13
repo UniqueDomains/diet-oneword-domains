@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .diet one-word domains from Unique
 
 **Public extract:** 9,714 rows · **Live catalog:** 9,714 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/diet`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | ace.diet        | premium   | $845      | $845          | 88             | 57     | 3      | namecheap       |
 | business.diet   | available | $159.98   | —             | 100            | 53     | 8      | namecheap       |
 | awesome.diet    | resell    | —         | —             | 98             | 44     | 7      | 1API GmbH       |
-| alpha.diet      | premium   | $2,600    | $2,600        | 90             | 54     | 5      | namecheap       |
+| alpha.diet      | premium   | $2,600    | $2,600        | 90             | 53     | 5      | namecheap       |
 | athletics.diet  | available | $159.98   | —             | 69             | 52     | 9      | namecheap       |
 | daily.diet      | resell    | —         | —             | 74             | 40     | 5      | 1API GmbH       |
 | art.diet        | premium   | $2,600    | $2,600        | 90             | 52     | 3      | namecheap       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
