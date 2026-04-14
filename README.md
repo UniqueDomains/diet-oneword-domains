@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .diet one-word domains from Unique
 
 **Public extract:** 9,714 rows · **Live catalog:** 9,714 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/diet`  
 **Best for:** founders, investors, studios
 
@@ -71,10 +71,10 @@ print(df.head())
 | fast.diet       | resell    | —         | —             | 82             | 52     | 4      | 1API GmbH       |
 | nationwide.diet | premium   | $2,600    | $2,600        | 76             | 66     | 10     | namecheap       |
 | live.diet       | available | $159.98   | —             | 108            | 56     | 4      | namecheap       |
-| top.diet        | resell    | —         | —             | 82             | 48     | 3      | Key-Systems LLC |
+| bio.diet        | resell    | —         | —             | 78             | 47     | 3      | 1API GmbH       |
 | cloud.diet      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap       |
 | music.diet      | available | $159.98   | —             | 84             | 54     | 5      | namecheap       |
-| bio.diet        | resell    | —         | —             | 78             | 47     | 3      | 1API GmbH       |
+| top.diet        | resell    | —         | —             | 82             | 46     | 3      | Key-Systems LLC |
 | ace.diet        | premium   | $845      | $845          | 88             | 57     | 3      | namecheap       |
 | business.diet   | available | $159.98   | —             | 100            | 53     | 8      | namecheap       |
 | awesome.diet    | resell    | —         | —             | 98             | 44     | 7      | 1API GmbH       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
