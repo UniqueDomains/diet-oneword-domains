@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .diet one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,705 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,705 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,705 domains · **Median ask:** $198.91 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/diet`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,12 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| barup.diet         | available | $159.98   | —             | 82             | 2      | 6      | namecheap |
+| forces.diet        | available | $159.98   | —             | 82             | 12     | 6      | namecheap |
+| geton.diet         | available | $159.98   | —             | 82             | 10     | 6      | namecheap |
+| makeit.diet        | available | $159.98   | —             | 82             | 22     | 7      | namecheap |
+| stirup.diet        | available | $159.98   | —             | 82             | 3      | 7      | namecheap |
+| dogsick.diet       | available | $159.98   | —             | 90             | 1      | 7      | namecheap |
 | hotels.diet        | available | $104.99   | $114.99       | 64             | 82     | 6      | namesilo  |
 | nets.diet          | premium   | $2,800    | $2,800        | 54             | 81     | 4      | namecheap |
 | keepthechange.diet | available | $159.98   | —             | 46             | 59     | 15     | namecheap |
@@ -78,12 +84,6 @@ print(df.head())
 | comics.diet        | premium   | $2,800    | $2,800        | 68             | 24     | 6      | namecheap |
 | prompts.diet       | available | $104.99   | $114.99       | 54             | 39     | 7      | namesilo  |
 | weddings.diet      | premium   | $2,660    | $2,660        | 64             | 18     | 8      | namesilo  |
-| William.diet       | available | $159.98   | —             | 74             | 31     | 7      | namecheap |
-| runners.diet       | premium   | $910      | $910          | 78             | 16     | 7      | namecheap |
-| maps.diet          | available | $159.98   | —             | 56             | 31     | 4      | namecheap |
-| bankers.diet       | premium   | $2,660    | $2,660        | 52             | 11     | 7      | namesilo  |
-| slots.diet         | available | $104.99   | $114.99       | 49             | 31     | 5      | namesilo  |
-| chiefs.diet        | premium   | $2,800    | $2,800        | 50             | 10     | 6      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,705 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,705 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on .diet domain names. The selection includes direct keyword terms, short constructions, plural words, and mixed-style brandables such as tips.diet, homes.diet, jewels.diet, and barup.diet. For founders, the main question is whether the word reads clearly to a health, nutrition, or wellness audience and still feels ownable beyond a narrow campaign. For investors, the key test is price discipline inside a niche extension where end-buyer demand can vary sharply by term. With a median ask of 198.91, many names sit in a range where wording quality matters more than absolute price.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize clear words that fit nutrition, wellness, or health use cases
+- Check whether the word before .diet is easy to say and spell
+- Compare ask price carefully; median ask here is 198.91
+- Be stricter on broad terms that may have weaker buyer intent
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
