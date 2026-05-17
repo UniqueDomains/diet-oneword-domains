@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .diet one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,706 domains · **Median ask:** $198.91 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/diet`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | barup.diet         | available | $159.98   | —             | 82             | 2      | 6      | namecheap |
 | forces.diet        | available | $159.98   | —             | 82             | 12     | 6      | namecheap |
 | geton.diet         | available | $159.98   | —             | 82             | 10     | 6      | namecheap |
-| makeit.diet        | available | $159.98   | —             | 82             | 22     | 7      | namecheap |
+| makeit.diet        | available | $159.98   | —             | 82             | 21     | 7      | namecheap |
 | stirup.diet        | available | $159.98   | —             | 82             | 3      | 7      | namecheap |
 | dogsick.diet       | available | $159.98   | —             | 90             | 1      | 7      | namecheap |
 | hotels.diet        | available | $104.99   | $114.99       | 64             | 82     | 6      | namesilo  |
@@ -76,12 +76,12 @@ print(df.head())
 | regions.diet       | premium   | $2,800    | $2,800        | 64             | 59     | 7      | namecheap |
 | robots.diet        | available | $104.99   | $114.99       | 62             | 47     | 6      | namesilo  |
 | farmers.diet       | premium   | $2,800    | $2,800        | 54             | 59     | 7      | namecheap |
-| jobs.diet          | available | $159.98   | —             | 79             | 42     | 4      | namecheap |
+| whynot.diet        | available | $159.98   | —             | 74             | 44     | 7      | namecheap |
 | Ryan.diet          | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap |
-| coins.diet         | available | $159.98   | —             | 56             | 41     | 5      | namecheap |
+| jobs.diet          | available | $159.98   | —             | 79             | 42     | 4      | namecheap |
 | stories.diet       | premium   | $2,800    | $2,800        | 58             | 36     | 7      | namecheap |
-| whynot.diet        | available | $159.98   | —             | 74             | 39     | 7      | namecheap |
-| comics.diet        | premium   | $2,800    | $2,800        | 68             | 24     | 6      | namecheap |
+| coins.diet         | available | $159.98   | —             | 56             | 41     | 5      | namecheap |
+| comics.diet        | premium   | $2,800    | $2,800        | 68             | 23     | 6      | namecheap |
 | prompts.diet       | available | $104.99   | $114.99       | 54             | 39     | 7      | namesilo  |
 | weddings.diet      | premium   | $2,660    | $2,660        | 64             | 18     | 8      | namesilo  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
