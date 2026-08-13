@@ -1,10 +1,10 @@
-# Available .DIET One-Word Domains (14,193)
+# Available .DIET One-Word Domains (14,932)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C193%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C932%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .diet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,193 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,932 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,193 domains · **Median ask:** $181.24 · **High-demand under $2,500:** 31
+**Public extract:** 1,000 rows · **Live catalog:** 14,932 domains · **Median ask:** $178.36 · **High-demand under $2,500:** 31
 
-**Last updated:** 2026-08-12
+**Last updated:** 2026-08-13
 **Canonical page:** `https://unique.domains/domains/tld/diet`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| christmas.diet | available | $104.99   | $114.99       | high           | low    | 9      | namesilo    |
-| ago.diet       | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo    |
-| basic.diet     | resell    | —         | —             | medium         | low    | 5      | 1API GmbH   |
-| ada.diet       | premium   | $832      | $832          | medium         | medium | 3      | namesilo    |
-| aim.diet       | available | $104.99   | $114.99       | high           | low    | 3      | namesilo    |
-| protein.diet   | resell    | —         | —             | high           | low    | 7      | Dynadot LLC |
-| ask.diet       | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo    |
-| ape.diet       | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo    |
-| lp.diet        | premium   | $832      | $832          | medium         | low    | 3      | namesilo    |
-| aug.diet       | available | $104.99   | $114.99       | low            | low    | 3      | namesilo    |
-| see.diet       | premium   | $2,660    | $2,660        | high           | low    | 3      | namesilo    |
-| Ava.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo    |
-| sun.diet       | premium   | $832      | $832          | high           | medium | 3      | namesilo    |
-| azo.diet       | available | $104.99   | $114.99       | low            | low    | 3      | namesilo    |
-| bond.diet      | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo    |
-| bag.diet       | available | $104.99   | $114.99       | high           | low    | 3      | namesilo    |
-| boss.diet      | premium   | $2,660    | $2,660        | high           | high   | 4      | namesilo    |
-| bob.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo    |
-| duke.diet      | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo    |
-| bud.diet       | available | $104.99   | $114.99       | high           | low    | 3      | namesilo    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| ago.diet     | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo    |
+| basic.diet   | resell    | —         | —             | medium         | low    | 5      | 1API GmbH   |
+| ada.diet     | premium   | $832      | $832          | medium         | medium | 3      | namesilo    |
+| aim.diet     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo    |
+| protein.diet | resell    | —         | —             | high           | low    | 7      | Dynadot LLC |
+| ask.diet     | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo    |
+| ape.diet     | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo    |
+| lp.diet      | premium   | $832      | $832          | medium         | low    | 3      | namesilo    |
+| aug.diet     | available | $104.99   | $114.99       | low            | low    | 3      | namesilo    |
+| see.diet     | premium   | $2,660    | $2,660        | high           | low    | 3      | namesilo    |
+| Ava.diet     | available | $104.99   | $114.99       | high           | medium | 3      | namesilo    |
+| sun.diet     | premium   | $832      | $832          | high           | medium | 3      | namesilo    |
+| azo.diet     | available | $104.99   | $114.99       | low            | low    | 3      | namesilo    |
+| bond.diet    | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo    |
+| bag.diet     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo    |
+| boss.diet    | premium   | $2,660    | $2,660        | high           | high   | 4      | namesilo    |
+| bob.diet     | available | $104.99   | $114.99       | high           | medium | 3      | namesilo    |
+| duke.diet    | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo    |
+| bud.diet     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo    |
+| epic.diet    | premium   | $2,800    | $2,800        | high           | medium | 4      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,193 live domains                        |
+| 1,000-row public sample | 14,932 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 31 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-08-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
