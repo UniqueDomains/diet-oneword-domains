@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .diet one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,245 domains · **Median ask:** $152.05 · **High-demand under $2,500:** 42
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/diet`
 **Best for:** founders, investors, studios
 
@@ -68,6 +68,8 @@ print(df.head())
 | sorry.diet     | available | $104.99   | $114.99       | high           | low    | 5      | namesilo  |
 | quiet.diet     | available | $104.99   | $114.99       | high           | low    | 5      | namesilo  |
 | beauty.diet    | available | $104.99   | $114.99       | high           | low    | 6      | namesilo  |
+| what.diet      | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo  |
+| pure.diet      | available | $104.99   | $114.99       | high           | medium | 4      | namesilo  |
 | ago.diet       | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo  |
 | basic.diet     | resell    | —         | —             | medium         | low    | 5      | 1API GmbH |
 | ada.diet       | premium   | $832      | $832          | medium         | medium | 3      | namesilo  |
@@ -82,8 +84,6 @@ print(df.head())
 | azo.diet       | available | $104.99   | $114.99       | low            | low    | 3      | namesilo  |
 | bond.diet      | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo  |
 | bag.diet       | available | $104.99   | $114.99       | medium         | low    | 3      | namesilo  |
-| boss.diet      | premium   | $2,660    | $2,660        | high           | high   | 4      | namesilo  |
-| bob.diet       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
