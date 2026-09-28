@@ -9,7 +9,7 @@ e6a212e5-4d14-4233-89c5-3414cd9db312,oregon.diet,available,104.99,114.99,high,lo
 46945660-13ff-46de-9e57-a4609f62903a,rush.diet,premium,2660,2660,high,low,4,namesilo,,,24/09/2026 18:44
 f5b0f918-3857-40b0-8b85-c7c5dd07af2a,village.diet,available,108.98,159.98,high,low,7,namecheap,,,25/09/2026 06:43
 6cf8d76e-5158-4d69-a402-a4bed10759cf,beech.diet,available,104.99,114.99,high,low,5,namesilo,,,23/09/2026 00:02
-943c98d0-e478-4c57-b6a6-a5b6773c51f7,pennyroyal.diet,available,108.98,159.98,high,low,10,namecheap,,,18/09/2026 20:31
+943c98d0-e478-4c57-b6a6-a5b6773c51f7,pennyroyal.diet,available,108.98,159.98,medium,low,10,namecheap,,,18/09/2026 20:31
 fd452f65-42cb-4113-a706-72895af24c5c,marginal.diet,available,104.99,114.99,high,low,8,namesilo,,,23/09/2026 00:04
 9e8cc9f3-c883-4520-a780-22afc34336c8,power.diet,available,104.99,114.99,high,medium,5,namesilo,,,08/09/2026 07:25
 9fbc0107-6b2e-45da-b0b6-ae79e8fa9a2c,striate.diet,available,104.99,114.99,medium,low,7,namesilo,,,10/09/2026 22:36
@@ -30,7 +30,7 @@ b7840640-ddfd-4546-ad48-4eeb02c34160,welds.diet,available,108.98,159.98,medium,l
 4e6a45b9-8ddd-40f2-bf7e-2ce91db15923,funny.diet,available,104.99,114.99,high,low,5,namesilo,,,23/09/2026 15:21
 39b4d05a-18a2-4f51-aca8-4fd1f49bb5e6,maginot.diet,available,108.98,159.98,medium,low,7,namecheap,,,19/09/2026 04:15
 71496cc5-85c6-4921-9ca6-56d3761b0394,doll.diet,available,108.98,159.98,high,low,4,namecheap,,,25/09/2026 04:37
-5624f7b8-8dc3-45e9-8d88-bf8585d14bb9,corrosive.diet,available,104.99,114.99,high,low,9,namesilo,,,13/08/2026 02:07
+5624f7b8-8dc3-45e9-8d88-bf8585d14bb9,corrosive.diet,available,104.99,114.99,medium,low,9,namesilo,,,13/08/2026 02:07
 4ccce4de-d8ed-4af1-b73d-660a6bb5c247,crownless.diet,available,104.99,114.99,medium,low,9,namesilo,,,13/08/2026 08:38
 e097e2e5-37ef-414a-82df-36a8f6cff4f5,offenses.diet,available,104.99,114.99,low,low,8,namesilo,,,20/09/2026 10:35
 a25b9992-f0b6-4209-aabf-87f307a03b92,characteristics.diet,available,104.99,114.99,medium,low,15,namesilo,,,
@@ -49,13 +49,14 @@ d4211bcd-bf72-41bc-abd3-eaac44556c3d,dinar.diet,available,104.99,114.99,high,low
 5b61e2d3-ea7a-4892-82d2-03e463e3b8d8,agricola.diet,available,108.98,159.98,high,low,8,namecheap,,,17/09/2026 19:19
 692bb93e-b128-4923-85a0-d10990548391,aires.diet,available,108.98,159.98,medium,low,5,namecheap,,,25/09/2026 21:54
 82568b9b-05fb-4ad8-8be5-aaf0a072055e,opening.diet,available,104.99,114.99,high,low,7,namesilo,,,04/09/2026 16:15
+15874d10-2a58-4cfe-b33e-21febab1df61,susanna.diet,available,104.99,114.99,high,low,7,namesilo,,,28/09/2026 01:02
 1107fcdc-624a-43c0-9c4c-2ee0311a18a4,older.diet,available,104.99,114.99,high,low,5,namesilo,,,21/09/2026 22:32
 2baa63ae-d55c-410d-95bf-3dc558cb889c,prenuptial.diet,available,104.99,114.99,high,low,10,namesilo,,,22/09/2026 06:05
 d2701f71-6f5d-49f0-9718-280729dd6246,museum.diet,available,108.98,159.98,high,low,6,namecheap,,,25/09/2026 23:47
 d2466908-516f-4f3c-a3a5-63a3aef7722b,oceanic.diet,available,104.99,114.99,high,medium,7,namesilo,,,04/09/2026 00:26
 39acbb9e-588f-43fd-a717-119418dc9a7a,celibate.diet,available,104.99,114.99,high,low,8,namesilo,,,11/08/2026 23:25
 df8e19bd-549b-4d47-b5a8-83217cc7f71c,skulls.diet,available,104.99,114.99,medium,low,6,namesilo,,,20/09/2026 10:31
-ad22477a-1f2b-44b0-8e0e-0de3f9635e1f,mauritian.diet,available,104.99,114.99,high,low,9,namesilo,,,24/08/2026 17:35
+ad22477a-1f2b-44b0-8e0e-0de3f9635e1f,mauritian.diet,available,104.99,114.99,medium,low,9,namesilo,,,24/08/2026 17:35
 f5101a5b-6621-4b5e-b503-5242bd5aee04,affidavit.diet,available,104.99,114.99,high,low,9,namesilo,,,
 bade18fa-ef3e-4bea-b7e6-8a53f420c88d,viewer.diet,available,104.99,114.99,high,low,6,namesilo,,,
 1b3f53ba-e602-4178-8f36-252cad50d887,spineless.diet,available,104.99,114.99,medium,low,9,namesilo,,,22/08/2026 08:58
@@ -64,13 +65,13 @@ bade18fa-ef3e-4bea-b7e6-8a53f420c88d,viewer.diet,available,104.99,114.99,high,lo
 ed5b21ec-21a5-44af-b641-08b00eaaa2f4,exonerated.diet,available,104.99,114.99,high,low,10,namesilo,,,
 0f502a5e-cb9a-450e-a5a9-1fcabae50e5d,hudson.diet,premium,2660,2660,high,medium,6,namesilo,,,27/09/2026 04:25
 9ef9de6b-05b9-4936-acf5-b0a6560ff4cc,buttercups.diet,available,108.98,159.98,medium,low,10,namecheap,,,20/09/2026 19:49
-be6d46c5-35a8-44fb-91a3-07994a42107b,stupid.diet,available,104.99,114.99,high,low,6,namesilo,,,
+be6d46c5-35a8-44fb-91a3-07994a42107b,stupid.diet,available,93.35,103.4,high,low,6,spaceship,,,28/09/2026 01:43
 38ec457d-9d43-4e38-bb42-657594132ccc,haunting.diet,available,104.99,114.99,medium,low,8,namesilo,,,21/08/2026 01:34
 dfc60f0b-8330-4eee-acd8-b65e8e90d21b,lettered.diet,available,104.99,114.99,medium,low,8,namesilo,,,22/08/2026 16:54
 24523ffa-840d-4459-a705-9e5b300cda00,meridian.diet,available,108.98,159.98,high,medium,8,namecheap,,,24/08/2026 20:46
 15251c22-e9c5-4c39-a91c-d901d5e818e2,chiefs.diet,premium,2600,2600,medium,low,6,namecheap,,,18/09/2026 03:19
 36a268de-2f1e-41ed-914c-3702a959505e,galilean.diet,available,108.98,159.98,medium,low,8,namecheap,,,18/08/2026 19:37
-14e01529-34c9-4350-a5db-f44eb1bf64a8,cat.diet,premium,832,832,high,high,3,namesilo,,,
+14e01529-34c9-4350-a5db-f44eb1bf64a8,cat.diet,premium,845,845,high,high,3,namecheap,,,27/09/2026 21:47
 36854876-255a-40f4-8360-1b5cb896e1d2,ajax.diet,available,104.99,114.99,high,low,4,namesilo,,,17/09/2026 23:41
 5a4aaec3-6f90-4536-a2d1-46e909b4cba4,emoji.diet,available,104.99,114.99,high,low,5,namesilo,,,
 91ccafe9-f13c-448f-b373-c70be959d8d0,dromedary.diet,available,104.99,114.99,medium,low,9,namesilo,,,19/09/2026 23:32
@@ -94,12 +95,12 @@ f226b3b9-1dfa-4561-b68e-e98a02fd0d34,reformed.diet,available,104.99,114.99,high,
 90458b7c-737a-4e3c-a0d0-e771c8138d1e,flighty.diet,available,104.99,114.99,medium,low,7,namesilo,,,18/08/2026 08:11
 98a75c83-6270-46e7-861a-96198bd68f82,chalky.diet,available,104.99,114.99,medium,low,6,namesilo,,,11/08/2026 13:39
 bc4d923a-f4b8-4864-a626-69e0030bb9f7,encyclical.diet,available,104.99,114.99,medium,low,10,namesilo,,,17/08/2026 00:42
-209b21b6-1f1b-44eb-913f-dfd70362313f,feverish.diet,available,104.99,114.99,high,low,8,namesilo,,,18/08/2026 00:29
+209b21b6-1f1b-44eb-913f-dfd70362313f,feverish.diet,available,104.99,114.99,medium,low,8,namesilo,,,18/08/2026 00:29
 7561cd46-d6ba-4f06-8c07-57b60f3892fc,swazi.diet,available,104.99,114.99,high,low,5,namesilo,,,11/09/2026 05:27
 4c58168c-e277-4571-8f74-dc4a44eed5b3,asks.diet,available,104.99,114.99,medium,low,4,namesilo,,,25/09/2026 17:36
 111a119f-e0bc-4067-976c-3bb220f07cde,intestate.diet,available,104.99,114.99,medium,low,9,namesilo,,,22/08/2026 08:24
 99f89c56-125b-45d3-9dbe-d5b7d10515b9,assured.diet,available,104.99,114.99,high,low,7,namesilo,,,07/08/2026 08:21
-93af4b7f-0e03-40f6-935c-a803ab178e68,selkirk.diet,available,299.99,299.99,high,low,7,name.com,,,18/09/2026 05:50
+93af4b7f-0e03-40f6-935c-a803ab178e68,selkirk.diet,available,299.99,299.99,medium,low,7,name.com,,,18/09/2026 05:50
 2a39162f-5fcb-4074-96d0-4a85b9657260,inhumane.diet,available,104.99,114.99,medium,low,8,namesilo,,,22/08/2026 05:17
 49ee700f-4862-4b51-a373-11cf36730070,discovered.diet,available,104.99,114.99,high,low,10,namesilo,,,22/09/2026 09:21
 4bd0dbff-97ce-4dad-a2d8-9b7eaf5adb64,soursop.diet,available,104.99,114.99,high,low,7,namesilo,,,19/09/2026 10:36
@@ -117,7 +118,7 @@ a9894f36-bdeb-44e7-808d-07d3ff93e18d,learnedly.diet,available,104.99,114.99,medi
 71526c42-b934-46c3-a0f7-5f731a0ec61c,stalemated.diet,available,299.99,299.99,medium,low,10,name.com,,,13/08/2026 19:29
 6b9cb3c8-73f5-46bc-9f8a-ec509e540f48,montevideo.diet,available,104.99,114.99,high,low,10,namesilo,,,24/09/2026 12:30
 03276213-b2b1-44d8-8111-d67a81cfe7ba,assembly.diet,available,104.99,114.99,high,low,8,namesilo,,,20/09/2026 16:09
-89581962-cfe8-4ac0-86e8-acbf66dad1b4,corresponding.diet,available,104.99,114.99,high,low,13,namesilo,,,
+89581962-cfe8-4ac0-86e8-acbf66dad1b4,corresponding.diet,available,104.99,114.99,medium,low,13,namesilo,,,
 9201753d-5b63-4457-a48f-125c51c0f09e,convoluted.diet,available,104.99,114.99,medium,low,10,namesilo,,,12/08/2026 23:59
 1b3e72f1-9eb7-4912-8615-eb23896a919e,uncles.diet,available,104.99,114.99,medium,low,6,namesilo,,,20/09/2026 08:48
 8a70a4af-afe4-4789-ae41-ac997ba60bd4,mouthcare.diet,available,159.98,,medium,low,9,namecheap,,,
@@ -137,8 +138,9 @@ ea2053f3-2184-46b9-9323-6b2a3600339d,carrel.diet,available,104.99,114.99,medium,
 3175e0c3-a99d-4837-8f78-3267734cc4f1,operating.diet,available,104.99,114.99,high,low,9,namesilo,,,04/09/2026 16:26
 0c404931-6507-482e-8d0c-14a987a15061,kike.diet,available,104.99,114.99,high,medium,4,namesilo,,,10/09/2026 06:15
 9787fff6-64b0-44de-92f9-b24d0832b577,beguiling.diet,available,104.99,114.99,high,low,9,namesilo,,,22/09/2026 01:38
+a82dd70a-d8c6-43f0-855a-16dd09078f33,kobe.diet,available,103.5,103.5,high,low,4,porkbun,,,28/09/2026 02:14
 c559be12-8629-4e1f-a4dd-d75a0613b6ef,babyish.diet,available,104.99,114.99,medium,low,7,namesilo,,,08/08/2026 03:53
-c99c8b47-e36b-46cf-9001-8091a4c85e0e,loosely.diet,available,104.99,114.99,high,low,7,namesilo,,,
+c99c8b47-e36b-46cf-9001-8091a4c85e0e,loosely.diet,available,104.99,114.99,medium,low,7,namesilo,,,
 ee6cebb5-1db8-46ac-95bc-5b0e3d202ddb,allie.diet,available,159.98,,high,low,5,namecheap,,,
 cde62adf-be27-497b-a6b2-8659efce5449,dilettante.diet,available,104.99,114.99,medium,low,10,namesilo,,,14/08/2026 07:38
 5ba57a57-0527-46f9-a43a-2f302b40c604,graceless.diet,available,104.99,114.99,medium,low,9,namesilo,,,18/08/2026 20:43
@@ -146,7 +148,7 @@ cde62adf-be27-497b-a6b2-8659efce5449,dilettante.diet,available,104.99,114.99,med
 b8d095d9-183e-473a-93f6-96346e1dfd16,toroidal.diet,available,108.98,159.98,medium,low,8,namecheap,,,11/09/2026 17:55
 7eee21ce-6275-4f55-8e4d-d96a73f8f212,flippant.diet,available,104.99,114.99,high,low,8,namesilo,,,18/08/2026 08:32
 5eae2cf4-cc88-4699-a8d9-a53b3dadc967,snapping.diet,available,104.99,114.99,high,low,8,namesilo,,,
-bfce6c38-2d7f-4791-a218-5019a3dfc2c7,same.diet,available,159.98,,high,low,4,namecheap,,,
+bfce6c38-2d7f-4791-a218-5019a3dfc2c7,same.diet,available,100.2,100.2,high,low,4,cloudflare,,,27/09/2026 17:53
 09d10c7b-75bc-4e43-a3ab-c34f4ca14f3b,armageddon.diet,available,104.99,114.99,high,low,10,namesilo,,,20/09/2026 06:29
 9f116406-7535-4d05-ba7a-b1ad314a51eb,documental.diet,available,104.99,114.99,medium,low,10,namesilo,,,14/08/2026 14:27
 b583ab10-21e2-4667-88fd-72c988ac99d7,subtly.diet,available,104.99,114.99,medium,low,6,namesilo,,,16/09/2026 07:33
@@ -165,7 +167,8 @@ efac7f46-4477-425d-b121-b8668d5c6428,finnish.diet,available,104.99,114.99,high,l
 31e3a17e-dec4-4b92-858e-e0227a4ad127,stranded.diet,available,104.99,114.99,high,low,8,namesilo,,,25/09/2026 17:00
 1cabb329-5e57-40af-868f-22cbcf2a7e6a,polydactyl.diet,available,104.99,114.99,medium,low,10,namesilo,,,08/09/2026 23:13
 37b22816-67db-43fb-98cc-e3c21e51e9a9,moderator.diet,available,159.98,,high,low,9,namecheap,,,
-39f237fc-847c-434f-bbb6-178931796e5c,humbug.diet,available,104.99,114.99,high,low,6,namesilo,,,21/09/2026 23:48
+c6ba7ecc-24a4-45c9-9b8e-8d922cb8fae4,douglas.diet,available,100.2,100.2,high,low,7,cloudflare,,,27/09/2026 13:08
+39f237fc-847c-434f-bbb6-178931796e5c,humbug.diet,available,104.99,114.99,medium,low,6,namesilo,,,21/09/2026 23:48
 beb94a36-77cf-4812-b0d6-c79d13018bdc,pursued.diet,available,104.99,114.99,high,medium,7,namesilo,,,09/09/2026 06:26
 b5aba54e-8e54-44e3-9d4c-3c1e63c0e694,ahmad.diet,available,108.98,159.98,high,low,5,namecheap,,,27/09/2026 07:37
 42e9be89-5dd4-48a2-9c8a-a333be73781d,ravioli.diet,available,108.98,159.98,high,low,7,namecheap,,,24/09/2026 12:37
@@ -173,9 +176,9 @@ b5aba54e-8e54-44e3-9d4c-3c1e63c0e694,ahmad.diet,available,108.98,159.98,high,low
 36d7b1fa-81b5-4f28-a409-c7f9fafb7103,whopping.diet,available,104.99,114.99,high,low,8,namesilo,,,08/08/2026 13:14
 f3818fde-3271-4d0a-b4f1-f84885405573,gunn.diet,available,104.99,114.99,medium,low,4,namesilo,,,27/09/2026 01:35
 16bf4789-2543-423d-bf3f-7a9270b6072d,dampish.diet,available,299.99,299.99,medium,low,7,name.com,,,13/08/2026 16:41
-8e5b0db2-d1ab-4391-a8e6-9b4658d0e571,dumbfound.diet,available,104.99,114.99,high,low,9,namesilo,,,21/09/2026 17:37
+8e5b0db2-d1ab-4391-a8e6-9b4658d0e571,dumbfound.diet,available,104.99,114.99,medium,low,9,namesilo,,,21/09/2026 17:37
 c4e31974-b60c-4f6c-b6bb-b234853090d0,apocope.diet,available,108.98,159.98,medium,low,7,namecheap,,,19/09/2026 18:11
-fb6f85a0-1415-41d4-9ae3-529b94c1b846,leftist.diet,available,104.99,114.99,high,low,7,namesilo,,,12/08/2026 17:05
+fb6f85a0-1415-41d4-9ae3-529b94c1b846,leftist.diet,available,104.99,114.99,medium,low,7,namesilo,,,12/08/2026 17:05
 227dcf8a-e7db-4ba3-8e37-79a48f7c701c,guyanese.diet,available,104.99,114.99,high,low,8,namesilo,,,20/08/2026 21:17
 2eab2103-b1e2-45e6-b4cf-69ca2d594d8e,kashmiri.diet,available,104.99,114.99,medium,low,8,namesilo,,,22/08/2026 15:07
 423e75a1-09b6-4273-a375-48d0511522ce,farfetched.diet,available,104.99,114.99,medium,low,10,namesilo,,,17/08/2026 22:32
@@ -187,7 +190,7 @@ f58724e6-c8ab-4a55-909f-221d29fd5fe9,failing.diet,available,104.99,114.99,medium
 a6550907-2850-4717-9ada-fc76cd688d1c,quartic.diet,available,104.99,114.99,high,low,7,namesilo,,,10/08/2026 05:37
 fd240875-662e-4176-aa77-ddf0eb04fbc3,bladed.diet,available,104.99,114.99,medium,low,6,namesilo,,,10/08/2026 12:14
 c1377d17-67ed-4f92-a4b4-f046cf308314,comedian.diet,available,104.99,114.99,high,low,8,namesilo,,,23/09/2026 15:26
-76e63c0c-5fe0-4dbe-864a-eb90cb014c73,oblong.diet,available,104.99,114.99,high,low,6,namesilo,,,03/09/2026 23:48
+76e63c0c-5fe0-4dbe-864a-eb90cb014c73,oblong.diet,available,104.99,114.99,medium,low,6,namesilo,,,03/09/2026 23:48
 469a3c39-5d4f-466d-9371-51aa76f4ed39,pressed.diet,available,104.99,114.99,high,low,7,namesilo,,,27/09/2026 05:21
 656cd502-6eff-4b53-89e2-b57be0b9d53e,sweetheart.diet,available,104.99,114.99,high,low,10,namesilo,,,22/08/2026 16:44
 d6f1a54a-8fa8-48ba-b8fe-bea1e2150b09,ambition.diet,available,104.99,114.99,high,low,8,namesilo,,,18/09/2026 16:53
@@ -225,9 +228,9 @@ ac99a33f-223c-4855-b958-39339968210f,explanations.diet,available,104.99,114.99,m
 f38a9471-0d3f-40af-bcfe-c4172c84ceb8,cloudless.diet,available,104.99,114.99,high,low,9,namesilo,,,12/08/2026 12:32
 fbe12eb7-1795-4227-9e27-a4e01f9c08fd,poky.diet,available,104.99,114.99,medium,low,4,namesilo,,,14/08/2026 07:34
 0574215c-c8a5-4bc3-ab79-0efaa1388798,premolar.diet,available,104.99,114.99,high,low,8,namesilo,,,09/08/2026 19:46
-50be6b09-dd3b-41f4-b873-f3a67535a383,keypress.diet,available,159.98,,high,low,9,namecheap,,,
+50be6b09-dd3b-41f4-b873-f3a67535a383,keypress.diet,available,159.98,,medium,low,9,namecheap,,,
 648ba354-36f8-4b2e-bf43-4f2c8514ce5c,implicit.diet,available,104.99,114.99,high,low,8,namesilo,,,21/08/2026 22:37
-f29e0a5c-b40d-44ec-b4a0-55fd77182735,unassuming.diet,available,159.98,,high,low,10,namecheap,,,
+f29e0a5c-b40d-44ec-b4a0-55fd77182735,unassuming.diet,available,93.35,103.4,high,low,10,spaceship,,,27/09/2026 13:26
 f788065e-7b66-4af8-8b38-300ae3f9a49e,admittedly.diet,available,104.99,114.99,medium,low,10,namesilo,,,11/09/2026 20:31
 a91351c8-a424-4ac0-8696-614bf29aaf55,decorous.diet,available,104.99,114.99,medium,low,8,namesilo,,,09/08/2026 06:21
 c929912b-a5c0-46d8-9539-a5a4b4293a03,oversewn.diet,available,104.99,114.99,medium,low,8,namesilo,,,04/09/2026 21:48
@@ -236,12 +239,12 @@ c929912b-a5c0-46d8-9539-a5a4b4293a03,oversewn.diet,available,104.99,114.99,mediu
 030f3f77-06d9-46ed-93e5-80b8aaa1536a,vantage.diet,available,104.99,114.99,high,medium,7,namesilo,,,17/09/2026 10:29
 8ed735e2-4d9a-45ad-8532-084b3c177bd4,arteria.diet,available,108.98,159.98,high,low,7,namecheap,,,20/09/2026 10:30
 d487edf8-e58d-40dd-aa29-649c8439b4f5,foremost.diet,available,104.99,114.99,high,medium,8,namesilo,,,18/08/2026 05:18
-30baa9a3-4617-431f-b1a1-dc57a6818b4b,atacama.diet,available,104.99,114.99,high,low,7,namesilo,,,
+30baa9a3-4617-431f-b1a1-dc57a6818b4b,atacama.diet,available,104.99,114.99,medium,low,7,namesilo,,,
 cc89c421-1ed6-4218-bed8-936f21d85f9e,crazy.diet,available,104.99,114.99,high,low,5,namesilo,,,23/09/2026 02:03
 13c49969-6f78-44fc-984c-25030e9a4777,fastidious.diet,available,104.99,114.99,medium,low,10,namesilo,,,17/08/2026 15:30
 a20551a2-86ac-4ec5-a5f4-f75e162334c1,overhang.diet,available,104.99,114.99,medium,low,8,namesilo,,,09/08/2026 08:28
 a4b52000-b7b6-4135-80c5-6db29ebb6d4a,informally.diet,available,104.99,114.99,medium,low,10,namesilo,,,
-6e4e8aaf-23d1-4b7b-af93-08c1c13ec39c,gusty.diet,available,108.98,159.98,high,low,5,namecheap,,,20/08/2026 21:10
+6e4e8aaf-23d1-4b7b-af93-08c1c13ec39c,gusty.diet,available,108.98,159.98,medium,low,5,namecheap,,,20/08/2026 21:10
 3dac1fec-ecda-4c4c-b593-9c03d7b442d6,akron.diet,available,104.99,114.99,high,low,5,namesilo,,,18/09/2026 00:14
 55601c5a-b698-483f-bb60-ee168b054f56,technicality.diet,available,104.99,114.99,high,low,12,namesilo,,,
 4cdc425c-c180-4bcd-8750-1550b49ac220,djia.diet,available,104.99,114.99,medium,low,4,namesilo,,,
@@ -260,8 +263,9 @@ d1fa0f75-62bb-479f-b374-ef725b15f054,pert.diet,available,104.99,114.99,high,low,
 a364305b-2400-4f56-8bbf-17f028afe9e0,precooked.diet,available,104.99,114.99,high,medium,9,namesilo,,,09/09/2026 01:17
 5673be38-625a-42ca-9f6d-529a88de4afc,repository.diet,available,104.99,114.99,high,low,10,namesilo,,,24/09/2026 21:59
 ed226af2-f9d1-4128-914e-288051dc9b45,liegeman.diet,available,104.99,114.99,medium,low,8,namesilo,,,18/08/2026 03:05
+2ca60091-b5cb-437c-8fb7-f5e31aa4a5e4,joyce.diet,available,100.2,100.2,high,low,5,cloudflare,,,27/09/2026 14:23
 e1e43997-718f-4961-b8eb-f5afe419f5ce,algol.diet,available,104.99,114.99,medium,low,5,namesilo,,,18/09/2026 07:05
-0c0e7a26-8e28-4ac7-beef-a5996dba9d21,greased.diet,available,108.98,159.98,high,low,7,namecheap,,,20/08/2026 19:33
+0c0e7a26-8e28-4ac7-beef-a5996dba9d21,greased.diet,available,108.98,159.98,medium,low,7,namecheap,,,20/08/2026 19:33
 0cba3c6b-6e3e-4ec7-b900-b2fc9f90694b,privately.diet,available,104.99,114.99,high,low,9,namesilo,,,15/09/2026 04:43
 6cfe8cb6-bd29-40c7-875d-4173249316e4,depictive.diet,available,104.99,114.99,medium,low,9,namesilo,,,14/08/2026 00:41
 ce596043-b131-4441-8a34-a33670d3c0c1,jamie.diet,available,108.98,159.98,high,low,5,namecheap,,,25/09/2026 17:50
@@ -269,8 +273,8 @@ c84f7070-c4a3-4955-8aad-834ad2bc9795,scotchtape.diet,available,104.99,114.99,hig
 39ec7446-1b04-4c49-9f2b-224dccbd2142,fortify.diet,available,104.99,114.99,high,low,7,namesilo,,,20/09/2026 06:18
 af60d51d-6b4a-4fa5-85f1-558f6fd39544,hoodlum.diet,available,104.99,114.99,high,medium,7,namesilo,,,09/09/2026 06:04
 e353d3fb-2df0-4e31-bd67-fd40755b3930,expand.diet,available,104.99,114.99,high,low,6,namesilo,,,24/09/2026 13:38
-45aaa0c0-d488-408a-82b9-63a38838d8b0,pangolin.diet,premium,2600,2600,high,low,8,namecheap,,,19/09/2026 12:39
-3604f759-6e40-4525-9b6d-d6357c83506f,draped.diet,available,108.98,159.98,high,low,6,namecheap,,,14/08/2026 18:23
+45aaa0c0-d488-408a-82b9-63a38838d8b0,pangolin.diet,premium,2600,2600,medium,low,8,namecheap,,,19/09/2026 12:39
+3604f759-6e40-4525-9b6d-d6357c83506f,draped.diet,available,108.98,159.98,medium,low,6,namecheap,,,14/08/2026 18:23
 07e1be57-95e6-4dee-a57e-d2a2d508b761,alligator.diet,available,104.99,114.99,high,low,9,namesilo,,,
 944a8dc6-39fc-446f-a402-77b5d4b5d8bb,lewd.diet,available,108.98,159.98,high,low,4,namecheap,,,22/08/2026 20:07
 5f83cba1-4e42-4fe4-a4bb-a81154e841f2,choked.diet,available,104.99,114.99,medium,low,6,namesilo,,,12/08/2026 06:39
@@ -284,10 +288,10 @@ cc4239ec-d785-4a96-a59a-b4718c9d88df,prudential.diet,available,104.99,114.99,hig
 5a003653-af89-4ad9-b5a8-b8b96c87554a,heroes.diet,available,108.98,159.98,high,low,6,namecheap,,,17/09/2026 22:48
 45820cbd-56fb-4b1f-95f3-e5c5c2ccbeb0,uncharted.diet,available,104.99,114.99,medium,low,9,namesilo,,,12/08/2026 02:53
 5170a330-9ce0-4905-b771-5b721f535f4f,ltd.diet,available,104.99,114.99,high,low,3,namesilo,,,25/09/2026 11:58
-96700735-b9a0-44dd-9296-ee651bacbe04,residuum.diet,available,104.99,114.99,high,low,8,namesilo,,,09/09/2026 15:07
+96700735-b9a0-44dd-9296-ee651bacbe04,residuum.diet,available,104.99,114.99,medium,low,8,namesilo,,,09/09/2026 15:07
 d62eecf4-3295-4803-be89-60a872468ead,metacarpal.diet,available,108.98,159.98,medium,low,10,namecheap,,,24/08/2026 21:30
 8d8c7a82-eeab-48f7-8d06-104a3640487d,leigh.diet,available,104.99,114.99,high,low,5,namesilo,,,25/09/2026 08:55
-481baba5-4d82-4003-9725-dd21732e8493,blasted.diet,available,104.99,114.99,high,low,7,namesilo,,,10/08/2026 12:35
+481baba5-4d82-4003-9725-dd21732e8493,blasted.diet,available,104.99,114.99,medium,low,7,namesilo,,,10/08/2026 12:35
 8e1027d4-dbf5-44dd-8208-66d859f957a0,perfective.diet,available,104.99,114.99,high,low,10,namesilo,,,08/09/2026 16:27
 ad8695bd-9183-4424-b438-66d9adc2aca9,prc.diet,available,104.99,114.99,high,low,3,namesilo,,,25/09/2026 22:08
 1b1da417-b402-4fb6-aa17-5a8ccac50761,hesperides.diet,available,104.99,114.99,medium,low,10,namesilo,,,20/09/2026 21:44
@@ -299,13 +303,14 @@ a6673c30-b006-4718-b759-f5756ee9ce42,illinois.diet,available,108.98,159.98,high,
 7382d4a7-b495-4a0b-a262-b9f8b85b75fb,fibre.diet,available,104.99,114.99,high,low,5,namesilo,,,
 76710c2c-54b4-4443-b416-90689548b9cf,artist.diet,available,104.99,114.99,high,low,6,namesilo,,,25/09/2026 04:10
 35505bd5-069a-4f8f-9229-ccad450c3104,putnam.diet,available,104.99,114.99,medium,low,6,namesilo,,,25/09/2026 16:07
-49600c44-0b47-4c29-b74f-afa26f6b8017,sanctioned.diet,available,104.99,114.99,high,low,10,namesilo,,,06/08/2026 09:24
+49600c44-0b47-4c29-b74f-afa26f6b8017,sanctioned.diet,available,104.99,114.99,medium,low,10,namesilo,,,06/08/2026 09:24
 c8216490-5fb8-4a6f-a8e6-652a5ad58269,biennial.diet,available,108.98,159.98,high,low,8,namecheap,,,09/08/2026 19:52
 48141155-f29b-442e-bc08-8e0ce375991e,pop.diet,premium,832,832,high,medium,3,namesilo,,,24/09/2026 11:55
 8cde857f-989e-4e6b-b8c4-78e54c10e9c1,bed.diet,available,104.99,114.99,high,low,3,namesilo,,,
 a60d5d46-bf71-43ef-9a33-4ea22d7eb96e,alchemist.diet,available,104.99,114.99,high,low,9,namesilo,,,18/09/2026 03:58
 80f64ee2-0d90-48a7-ba29-508bc47cc21b,bantu.diet,available,104.99,114.99,medium,low,5,namesilo,,,08/08/2026 14:50
 503ae165-95c2-407c-8c05-52444a42415a,semihard.diet,available,104.99,114.99,medium,low,8,namesilo,,,10/09/2026 03:04
+e3d5e915-86d8-419d-ad46-786c2ded1139,julius.diet,available,93.35,103.4,high,low,6,spaceship,,,27/09/2026 18:53
 a48901ae-0852-4f8b-af5b-66737e6519d2,omniscient.diet,available,104.99,114.99,high,low,10,namesilo,,,
 3dbf52a3-8d5d-4b61-96c3-41f4d0c5fa52,mueller.diet,premium,2660,2660,high,low,7,namesilo,,,26/09/2026 03:22
 d0d18bd0-8df6-4fa0-9b1d-9a592a3e3ea2,lxiii.diet,available,104.99,114.99,medium,low,5,namesilo,,,
@@ -326,7 +331,7 @@ feb71e90-28d6-4c6a-b841-8e1e87d16829,signing.diet,available,104.99,114.99,high,l
 8eb9b343-a7d1-4cea-8162-070461a9a5f6,treed.diet,available,104.99,114.99,medium,low,5,namesilo,,,07/08/2026 11:13
 98a58e02-2e36-4266-ae00-f630ab4f6683,dogfight.diet,available,108.98,159.98,high,medium,8,namecheap,,,09/09/2026 18:56
 cf9e6135-f3b1-43a7-bdad-a66dcf50b681,grimy.diet,available,104.99,114.99,medium,low,5,namesilo,,,09/08/2026 09:25
-f1ea83d3-dcc3-4841-bfa6-adcef6504d13,sub.diet,available,104.99,114.99,high,low,3,namesilo,,,
+f1ea83d3-dcc3-4841-bfa6-adcef6504d13,sub.diet,available,93.35,103.4,high,low,3,spaceship,,,28/09/2026 01:46
 2b07af6f-593c-4bc6-ad9e-f5cf0dc04646,anemometer.diet,available,104.99,114.99,medium,low,10,namesilo,,,19/09/2026 05:15
 6e2b44fd-d845-43a5-bf17-a3d55176bf28,cumbersome.diet,available,104.99,114.99,medium,low,10,namesilo,,,13/08/2026 10:25
 2ac34ec5-0d24-45aa-96af-d16776f4bb7b,bewitch.diet,available,104.99,114.99,high,low,7,namesilo,,,21/08/2026 07:41
@@ -357,7 +362,7 @@ fdb7f1fb-dadf-40fe-bf5d-455c46f3d5c9,cop.diet,available,104.99,114.99,high,low,3
 f820788a-7b77-49a0-a4f2-6cf844b8584b,park.diet,available,104.99,114.99,high,medium,4,namesilo,,,23/09/2026 15:57
 f2aebf7b-46cd-463a-baef-3a7fa65bdb74,acetyl.diet,available,104.99,114.99,medium,low,6,namesilo,,,17/09/2026 00:19
 3d753093-7c15-416d-b62f-c104b4c131af,crumb.diet,available,104.99,114.99,medium,low,5,namesilo,,,11/08/2026 09:20
-932e49f3-f42f-4436-91f1-35912badacd4,caledonia.diet,available,104.99,114.99,high,low,9,namesilo,,,27/09/2026 03:27
+932e49f3-f42f-4436-91f1-35912badacd4,caledonia.diet,available,104.99,114.99,medium,low,9,namesilo,,,27/09/2026 03:27
 66e64117-e884-4638-a664-6fa7d2435d14,platform.diet,available,104.99,114.99,high,medium,8,namesilo,,,27/09/2026 02:05
 a817250b-734f-4d6c-bbda-a7b44038cea1,eggs.diet,available,104.99,114.99,high,low,4,namesilo,,,
 532e66c3-b64a-43cc-bd23-0b2ed093efa4,ammine.diet,available,104.99,114.99,medium,low,6,namesilo,,,18/09/2026 22:03
@@ -387,12 +392,12 @@ fc8c717c-a2b3-41bb-8508-b9dab2bf3781,almandine.diet,available,104.99,114.99,medi
 64a3cd7c-0beb-4cf6-9def-aff7faad2706,lunches.diet,available,104.99,114.99,medium,low,7,namesilo,,,20/09/2026 07:45
 d1a3d7bb-4254-4528-a379-cef54fa4a723,goldbrick.diet,available,104.99,114.99,medium,low,9,namesilo,,,20/08/2026 16:29
 ff841906-e37b-4574-a1c5-5b4ce5280e29,bored.diet,available,104.99,114.99,high,low,5,namesilo,,,23/09/2026 00:16
-87974da1-0ac3-4caa-bc7a-07f2c70b8fe9,numerical.diet,available,104.99,114.99,high,low,9,namesilo,,,03/09/2026 22:52
+87974da1-0ac3-4caa-bc7a-07f2c70b8fe9,numerical.diet,available,104.99,114.99,medium,low,9,namesilo,,,03/09/2026 22:52
 3d95ae99-0952-406b-85e0-d90f56649ec4,turbulent.diet,available,104.99,114.99,medium,low,9,namesilo,,,14/08/2026 12:26
 c47a031b-ecb6-401b-aacb-1df017179aed,regimented.diet,available,104.99,114.99,high,medium,10,namesilo,,,09/09/2026 12:55
-0e3cd5db-847d-41f1-a6e9-1ec48f179d8a,incessant.diet,available,104.99,114.99,high,low,9,namesilo,,,11/08/2026 23:04
+0e3cd5db-847d-41f1-a6e9-1ec48f179d8a,incessant.diet,available,104.99,114.99,medium,low,9,namesilo,,,11/08/2026 23:04
 979eb650-0abf-4b17-a68f-44547f1e2dad,packages.diet,available,104.99,114.99,medium,low,8,namesilo,,,19/09/2026 00:23
-26e00fb9-31c3-46b6-b949-48ba724fc612,checkered.diet,available,104.99,114.99,high,low,9,namesilo,,,12/08/2026 03:38
+26e00fb9-31c3-46b6-b949-48ba724fc612,checkered.diet,available,104.99,114.99,medium,low,9,namesilo,,,12/08/2026 03:38
 779c5a73-0b86-4112-9cff-2a3e151ff088,reformer.diet,available,104.99,114.99,high,low,8,namesilo,,,19/09/2026 15:23
 8825c386-d740-4e51-9c25-b3f1b658463c,williamson.diet,available,104.99,114.99,high,low,10,namesilo,,,17/09/2026 14:22
 7bb3731e-be5f-4f31-bc2b-1d90b02e5bbe,half.diet,available,104.99,114.99,high,low,4,namesilo,,,24/09/2026 23:32
@@ -406,6 +411,8 @@ ce6fc006-6a75-40f9-aee6-453c539e46d8,pills.diet,premium,2660,2660,high,low,5,nam
 00b60fc5-4009-42e7-bafa-a420a88f5cb9,backhoe.diet,available,108.98,159.98,high,low,7,namecheap,,,21/09/2026 15:37
 7c47f55e-2ab1-42e7-acbc-7a6235ed7058,brag.diet,available,104.99,114.99,high,low,4,namesilo,,,23/09/2026 00:49
 4e2243dd-ee26-4fa6-bf7d-d616e13d5d03,manky.diet,available,104.99,114.99,medium,low,5,namesilo,,,24/08/2026 15:12
+fdc38119-daf4-47cf-b8d4-0b3966e98163,injuries.diet,available,93.35,103.4,low,low,8,spaceship,,,27/09/2026 21:38
+5d297db8-87a4-4888-90eb-ff70433b8a2a,heights.diet,available,104.99,114.99,high,low,7,namesilo,,,27/09/2026 13:59
 36f77dfd-ac09-4b60-9f17-59ba7df552b8,polythene.diet,available,104.99,114.99,medium,low,9,namesilo,,,
 39b59822-b9d4-4d93-9b50-b27664e05669,agrimonia.diet,available,108.98,159.98,medium,low,9,namecheap,,,17/09/2026 19:28
 976ac121-a056-48d9-a99e-29d4cd8260c4,legitimacy.diet,available,104.99,114.99,high,low,10,namesilo,,,21/09/2026 05:07
@@ -423,6 +430,7 @@ da681158-5cde-4cde-b875-c57a104d4ceb,alupent.diet,available,104.99,114.99,medium
 9edd6915-dc3d-4b8f-ba47-3a5190fbf3b2,aloe.diet,available,104.99,114.99,high,low,4,namesilo,,,18/09/2026 12:59
 94161313-227f-4cb0-aa30-1a2097b63286,cinque.diet,available,104.99,114.99,medium,low,6,namesilo,,,
 20c26634-8192-4555-920e-e1cc96bc8097,vegetable.diet,available,104.99,114.99,high,low,9,namesilo,,,
+c9c9f193-8ccb-46ff-a7d1-ffa608d6450a,benefits.diet,available,104.99,114.99,medium,low,8,namesilo,,,27/09/2026 23:08
 7421454b-9ff3-4793-9920-a167da092123,downer.diet,available,104.99,114.99,medium,low,6,namesilo,,,14/08/2026 02:41
 289b68bf-ca38-4938-863c-2058f79e49e7,magnetic.diet,available,104.99,114.99,high,low,8,namesilo,,,12/08/2026 02:32
 63f90445-f313-459c-9ab4-10927e5ceceb,otherwise.diet,available,104.99,114.99,high,low,9,namesilo,,,26/09/2026 00:41
@@ -432,11 +440,11 @@ ef8bf4b2-fe2e-4c92-9979-f0db34c9db6b,anopheles.diet,available,104.99,114.99,medi
 8d006995-c8dd-40e8-98fa-c1585ad72f77,mob.diet,available,108.98,159.98,high,low,3,namecheap,,,24/09/2026 19:26
 932f81f2-d8f1-49e2-b3cb-5024f8530634,introduction.diet,available,104.99,114.99,high,low,12,namesilo,,,
 20e4262b-586e-4c9b-9f91-82b9d3c18338,brochure.diet,available,104.99,114.99,high,low,8,namesilo,,,24/09/2026 07:07
-6c9f40a9-6628-43f1-a8c4-2d530fdfbd8c,malawian.diet,available,104.99,114.99,high,low,8,namesilo,,,24/08/2026 13:40
+6c9f40a9-6628-43f1-a8c4-2d530fdfbd8c,malawian.diet,available,104.99,114.99,medium,low,8,namesilo,,,24/08/2026 13:40
 77ce79d7-13c2-4034-aae1-87283535e604,slyly.diet,available,104.99,114.99,medium,low,5,namesilo,,,14/09/2026 09:08
 33fb87c9-9626-4903-85b3-a14e3f1afe36,annexa.diet,available,104.99,114.99,medium,low,6,namesilo,,,17/09/2026 09:06
 1cc4eeb8-888c-4bf1-bf50-85dc1ab660f0,burial.diet,available,104.99,114.99,medium,low,6,namesilo,,,24/09/2026 11:18
-35d8beb6-ac7a-432d-9cf5-135b877fde1b,malayan.diet,available,104.99,114.99,high,low,7,namesilo,,,24/08/2026 13:44
+35d8beb6-ac7a-432d-9cf5-135b877fde1b,malayan.diet,available,104.99,114.99,medium,low,7,namesilo,,,24/08/2026 13:44
 981e7860-70b6-4dd6-b884-54528ab5c070,lacing.diet,available,104.99,114.99,medium,low,6,namesilo,,,13/09/2026 11:13
 a1bbc43b-06f1-4430-8736-0356d78b9287,arere.diet,available,104.99,114.99,medium,low,5,namesilo,,,20/09/2026 03:56
 92e20fd3-2d60-487b-be4a-0350f71dc485,later.diet,available,104.99,114.99,high,low,5,namesilo,,,21/09/2026 22:11
@@ -454,7 +462,7 @@ d8ba5a74-a563-4cd7-8d19-c63f2d55121d,branch.diet,available,159.98,,high,low,6,na
 134350b4-2b0d-4698-95b0-d29a453a7390,vedic.diet,available,104.99,114.99,high,low,5,namesilo,,,13/09/2026 01:37
 7cce6322-2ba0-49bd-bf6f-5e778c4c73e6,quicker.diet,available,104.99,114.99,high,low,7,namesilo,,,14/09/2026 17:44
 a5c625cc-1548-4e81-914f-6d7ad4785098,diversely.diet,available,104.99,114.99,medium,low,9,namesilo,,,14/09/2026 13:25
-3b3234d4-7eb2-4585-a374-e503d2688c90,lingo.diet,available,104.99,114.99,high,low,5,namesilo,,,13/09/2026 04:12
+3b3234d4-7eb2-4585-a374-e503d2688c90,lingo.diet,available,104.99,114.99,medium,low,5,namesilo,,,13/09/2026 04:12
 9df3a7d7-1ebc-46b1-b7fe-19d64eb37a4a,caramel.diet,available,108.98,159.98,high,low,7,namecheap,,,11/08/2026 18:28
 ba150e62-9512-4b2d-9916-fd103748ad15,zaman.diet,available,104.99,114.99,high,low,5,namesilo,,,18/09/2026 03:15
 1744e128-ef82-4647-a2f0-a3729fccf845,aficionado.diet,available,108.98,159.98,high,low,10,namecheap,,,17/09/2026 15:01
@@ -479,7 +487,7 @@ ec1f8f99-4204-4764-bb9a-ca53f24089f1,bromide.diet,available,108.98,159.98,medium
 1ad07f90-0ee2-4846-82dc-d215fdbd42a7,dotty.diet,available,108.98,159.98,medium,low,5,namecheap,,,06/08/2026 20:55
 9fa6b558-cc20-4c46-826a-b32d642de879,downfall.diet,available,104.99,114.99,medium,low,8,namesilo,,,24/09/2026 23:39
 72cf52d9-26d8-48d4-9ee2-b3242a5d7d86,omissive.diet,available,104.99,114.99,medium,low,8,namesilo,,,04/09/2026 02:28
-ef8ec100-952a-48d0-ad7a-b31d098245b1,ogden.diet,available,104.99,114.99,high,low,5,namesilo,,,25/09/2026 03:51
+ef8ec100-952a-48d0-ad7a-b31d098245b1,ogden.diet,available,104.99,114.99,medium,low,5,namesilo,,,25/09/2026 03:51
 70d9e07c-277f-4301-b6bb-3fac1e57bd17,beans.diet,available,159.98,,high,low,5,namecheap,,,
 ff75e9e0-7cd6-48b2-ade4-ec989be15b22,redolent.diet,available,104.99,114.99,high,low,8,namesilo,,,17/08/2026 15:16
 e005efb9-bc7f-4aeb-9cce-558cf2ac2919,misplaced.diet,available,104.99,114.99,medium,low,9,namesilo,,,25/08/2026 01:32
@@ -487,7 +495,7 @@ e005efb9-bc7f-4aeb-9cce-558cf2ac2919,misplaced.diet,available,104.99,114.99,medi
 2cc7e547-32c7-4d79-a958-3c939a326c18,cholera.diet,available,104.99,114.99,medium,low,7,namesilo,,,20/09/2026 14:08
 9c1abcd8-4fc6-4656-9354-14b82dfe57fb,argent.diet,available,108.98,159.98,medium,low,6,namecheap,,,06/08/2026 17:51
 fea93515-c3f7-449a-8d61-d9269f042681,mythical.diet,available,104.99,114.99,high,low,8,namesilo,,,03/09/2026 12:31
-32472b77-a5b3-4d3e-b13b-d3997ed9e6f2,begging.diet,available,104.99,114.99,high,low,7,namesilo,,,23/09/2026 02:16
+32472b77-a5b3-4d3e-b13b-d3997ed9e6f2,begging.diet,available,104.99,114.99,medium,low,7,namesilo,,,23/09/2026 02:16
 23cafda0-5cb6-4905-a3a0-a2e902198a2c,arctic.diet,available,104.99,114.99,high,low,6,namesilo,,,06/08/2026 16:07
 daa4745c-9605-4d54-ac4c-19f88a5cd205,ask.diet,premium,2660,2660,high,medium,3,namesilo,,,
 49705063-baa2-4d57-aac6-6a60fc395ac6,forthright.diet,available,104.99,114.99,high,low,10,namesilo,,,11/08/2026 16:42
@@ -503,7 +511,7 @@ cf8ee8aa-6714-47b1-9862-b85923f30b54,motorist.diet,available,104.99,114.99,high,
 ba30da5f-34d0-486c-8605-7d238f78441b,downgrade.diet,available,108.98,159.98,medium,low,9,namecheap,,,24/09/2026 23:39
 cc2c289b-bfa7-4a2c-a5cb-b607a292f572,kokka.diet,available,104.99,114.99,medium,low,5,namesilo,,,08/09/2026 07:02
 12a44b62-b030-43c7-9cee-79149cce8e52,stunning.diet,available,104.99,114.99,high,low,8,namesilo,,,22/09/2026 08:34
-21c801af-a11d-4742-a766-e92aa4050db5,tarsal.diet,available,104.99,114.99,high,low,6,namesilo,,,11/09/2026 08:42
+21c801af-a11d-4742-a766-e92aa4050db5,tarsal.diet,available,104.99,114.99,medium,low,6,namesilo,,,11/09/2026 08:42
 06afa035-1337-4a08-912a-c1a35a40ddfd,inhabited.diet,available,104.99,114.99,high,low,9,namesilo,,,22/08/2026 04:59
 282b3a88-c293-442b-81b3-a0492418f071,constraints.diet,available,108.98,159.98,low,low,11,namecheap,,,20/09/2026 23:49
 9e7869fe-78b4-4ff5-8473-16aee7c29080,umpteen.diet,available,104.99,114.99,medium,low,7,namesilo,,,11/09/2026 23:06
@@ -525,7 +533,7 @@ bd2b0213-4ed0-43eb-bf43-c230194b64cf,adient.diet,available,104.99,114.99,medium,
 d95e25eb-b180-4dd5-879f-f13e7cbd1daa,prideful.diet,available,104.99,114.99,medium,low,8,namesilo,,,17/08/2026 19:48
 1e4f5c80-cbcd-4b80-9ee8-fcc239e62c2b,dive.diet,available,104.99,114.99,high,low,4,namesilo,,,
 f089fe7b-89e2-42ea-bfa4-fa2d8bbe5920,carribean.diet,available,104.99,114.99,high,low,9,namesilo,,,
-bdd542b2-40c2-4c3f-8ec7-af6c0a1843fa,lingual.diet,available,104.99,114.99,high,low,7,namesilo,,,23/08/2026 15:07
+bdd542b2-40c2-4c3f-8ec7-af6c0a1843fa,lingual.diet,available,104.99,114.99,medium,low,7,namesilo,,,23/08/2026 15:07
 2077cd34-1bb5-46cd-8833-37694bea6e2e,bitterness.diet,available,104.99,114.99,medium,low,10,namesilo,,,17/09/2026 03:08
 4a19d607-36b9-4397-85ca-b7ff1053fc46,drain.diet,available,104.99,114.99,high,low,5,namesilo,,,24/09/2026 23:49
 4e2651a9-5d8f-42b9-9d67-8b33d579ef41,duodecimal.diet,available,108.98,159.98,medium,low,10,namecheap,,,14/08/2026 21:19
@@ -569,7 +577,7 @@ d72711fa-9822-4350-9262-7eac064852bf,snickers.diet,available,104.99,114.99,high,
 ea416e60-d0c4-4594-a08c-a49e7fe0c219,nebular.diet,available,104.99,114.99,medium,low,7,namesilo,,,12/08/2026 12:39
 5655b7a8-fa89-43db-97b7-b205847216b5,system.diet,available,104.99,114.99,high,medium,6,namesilo,,,23/09/2026 06:54
 39faa88c-da0d-41f7-ac90-e7da729fcbef,savvy.diet,available,104.99,114.99,high,low,5,namesilo,,,12/09/2026 07:40
-d6a49e15-6f89-4dc0-98fa-d25cd6f930f9,deftly.diet,available,104.99,114.99,high,low,6,namesilo,,,14/09/2026 11:20
+d6a49e15-6f89-4dc0-98fa-d25cd6f930f9,deftly.diet,available,104.99,114.99,medium,low,6,namesilo,,,14/09/2026 11:20
 7baff1bc-dd1c-4266-a450-d570930f1648,apocryphal.diet,available,104.99,114.99,medium,low,10,namesilo,,,06/08/2026 01:11
 53e6a37f-ad98-40e3-b939-c54458e5d672,landscape.diet,available,104.99,114.99,high,low,9,namesilo,,,25/09/2026 04:23
 5c2e3194-ab3e-460e-ba19-4dfae66183e4,tidy.diet,available,104.99,114.99,high,low,4,namesilo,,,20/08/2026 16:42
@@ -595,7 +603,7 @@ a1c8e5ca-c5f7-4497-b041-29cfbffdbb17,ascendant.diet,available,104.99,114.99,high
 8a6537d9-48e4-410d-b8c1-1cc83464d16f,thracian.diet,available,104.99,114.99,medium,low,8,namesilo,,,11/09/2026 14:10
 44593537-f60e-408b-8057-511bf8b02d6f,hope.diet,available,104.99,114.99,high,medium,4,namesilo,,,24/09/2026 06:22
 f6ac6f9a-7108-4703-b7e7-f5870ece9138,comparing.diet,available,104.99,114.99,high,low,9,namesilo,,,24/09/2026 16:45
-21c0b58b-65ba-4062-902f-82353d56abd4,brunette.diet,available,104.99,114.99,high,low,8,namesilo,,,11/08/2026 06:56
+21c0b58b-65ba-4062-902f-82353d56abd4,brunette.diet,available,104.99,114.99,medium,low,8,namesilo,,,11/08/2026 06:56
 8f26600b-88e3-4bca-b886-2ff56671702b,ecologic.diet,available,104.99,114.99,high,low,8,namesilo,,,10/08/2026 02:32
 6a68710c-9721-4ee1-9492-ec07280f425e,dermic.diet,available,104.99,114.99,medium,low,6,namesilo,,,14/08/2026 03:09
 481dea89-e141-4213-b07f-613b58d80266,afterglow.diet,available,104.99,114.99,high,low,9,namesilo,,,17/09/2026 15:42
@@ -604,6 +612,7 @@ f6ac6f9a-7108-4703-b7e7-f5870ece9138,comparing.diet,available,104.99,114.99,high
 9a7acfc7-487f-4c2d-bcff-af1d9b01a352,cheerful.diet,available,104.99,114.99,high,low,8,namesilo,,,12/08/2026 03:41
 8aaa7dea-9b2f-431a-bc94-7170d056bfb2,alpinism.diet,available,108.98,159.98,medium,low,8,namecheap,,,18/09/2026 14:05
 d949a5b8-246b-4b59-bd18-2544db15654a,wimp.diet,available,108.98,159.98,medium,low,4,namecheap,,,24/09/2026 19:54
+8c4bb55f-db89-4764-9d0e-6182e4cd56c2,robbie.diet,available,93.35,103.4,high,low,6,spaceship,,,27/09/2026 19:05
 17701ed3-e769-48a4-adb4-b18ea45efe87,improved.diet,available,104.99,114.99,high,low,8,namesilo,,,21/08/2026 23:15
 14e6b78d-01c7-4d20-af4a-0ed7b83c81e0,truly.diet,premium,2800,2800,high,low,5,namecheap,,,
 a28d49e9-480f-47ac-8994-f68aca334a0c,clogged.diet,available,104.99,114.99,medium,low,7,namesilo,,,12/08/2026 06:41
@@ -628,11 +637,12 @@ a6594ecb-7b80-4a47-8d3d-c606b043a000,dandified.diet,available,299.99,299.99,medi
 3fa93030-3104-4163-b2b9-0d4ee809afa3,inorganic.diet,available,104.99,114.99,high,low,9,namesilo,,,22/08/2026 06:11
 a9712447-d63f-4d89-b163-e381184777a2,diplomatic.diet,available,104.99,114.99,high,low,10,namesilo,,,24/09/2026 10:36
 71e66a73-3ae7-4e7d-91cc-f75a879bb693,batty.diet,available,104.99,114.99,medium,low,5,namesilo,,,06/08/2026 20:35
+38e705a2-451c-4c6d-ac75-fba9cfbc6a27,hartman.diet,available,104.99,114.99,high,low,7,namesilo,,,28/09/2026 00:35
 4c2ba332-2033-4d8f-bc59-ff6b93e414af,orchestral.diet,available,104.99,114.99,high,low,10,namesilo,,,04/09/2026 17:42
-67501142-cdc7-4b4c-8f61-f6f30cda37f6,antifreeze.diet,available,104.99,114.99,high,low,10,namesilo,,,19/09/2026 14:23
+67501142-cdc7-4b4c-8f61-f6f30cda37f6,antifreeze.diet,available,104.99,114.99,medium,low,10,namesilo,,,19/09/2026 14:23
 09c234e2-83e0-4d3c-9b04-d39f6ae5e8dc,jenkins.diet,available,104.99,114.99,high,low,7,namesilo,,,25/09/2026 12:14
 6b974415-0be0-46ee-b184-4a7113c85643,aroid.diet,available,104.99,114.99,medium,low,5,namesilo,,,06/08/2026 11:30
-630fd455-2ff6-49ea-bfb0-011d51994dd5,cycles.diet,available,104.99,114.99,high,low,6,namesilo,,,20/09/2026 09:25
+630fd455-2ff6-49ea-bfb0-011d51994dd5,cycles.diet,available,104.99,114.99,medium,low,6,namesilo,,,20/09/2026 09:25
 3423283d-e045-4ded-9571-18de51792153,confirmed.diet,available,108.98,159.98,high,low,9,namecheap,,,23/09/2026 19:53
 8c30d53f-dafa-4752-9023-137208838a29,undeniable.diet,available,104.99,114.99,high,low,10,namesilo,,,12/09/2026 07:15
 de4db893-be89-4c06-a47b-a035518d9e77,corpulent.diet,available,104.99,114.99,medium,low,9,namesilo,,,13/08/2026 01:57
@@ -723,8 +733,9 @@ b1d5a24c-3866-427e-b5b4-2f68b42ade50,discord.diet,premium,2660,2660,high,medium,
 4193e0e6-f005-42a0-a010-e10a7b55d9cd,equipping.diet,available,104.99,114.99,medium,low,9,namesilo,,,20/09/2026 07:13
 d0fbed57-d7bf-4d15-96e0-50ce6f4cc1bc,inchoate.diet,available,104.99,114.99,medium,low,8,namesilo,,,22/08/2026 01:16
 816f4c55-57d9-4c29-b11c-7363eff9aaf0,brisken.diet,available,104.99,114.99,high,low,7,namesilo,,,11/08/2026 04:39
-e3c13417-bd3e-437b-9d52-3776ba41b34d,slovenian.diet,available,104.99,114.99,high,low,9,namesilo,,,10/09/2026 11:19
+e3c13417-bd3e-437b-9d52-3776ba41b34d,slovenian.diet,available,104.99,114.99,medium,low,9,namesilo,,,10/09/2026 11:19
 b9647737-f377-4fe0-811a-81e6510b6838,texan.diet,available,104.99,114.99,high,low,5,namesilo,,,11/09/2026 12:15
+521e6690-ace2-41ff-b4ae-19d337d1ef9b,prey.diet,available,107.22,107.22,high,low,4,dynadot,,,27/09/2026 13:29
 2ac24460-3e15-4ed5-a231-35c2f9ffa2a9,continents.diet,available,104.99,114.99,medium,low,10,namesilo,,,18/09/2026 12:00
 61c3ea7b-1785-4386-bd61-007448a332c4,unrefined.diet,available,104.99,114.99,medium,low,9,namesilo,,,12/09/2026 17:28
 175cfa11-1308-4d8b-a1f0-606d361bbd89,agerasia.diet,available,108.98,159.98,medium,low,8,namecheap,,,17/09/2026 17:14
@@ -734,11 +745,11 @@ e8a7cdef-723f-4d95-b64b-caf66526b5e3,dimorphic.diet,available,104.99,114.99,medi
 b5037c43-065b-4ac1-80d5-b0ffa59355ef,parvenue.diet,available,104.99,114.99,medium,low,8,namesilo,,,03/09/2026 22:16
 1ad132f0-68e9-4163-b4af-111d1269128f,taxi.diet,available,104.99,114.99,high,low,4,namesilo,,,24/09/2026 11:29
 fc817596-a2bd-4f1b-85d0-23089c9a6a3e,shrunken.diet,available,104.99,114.99,high,medium,8,namesilo,,,10/09/2026 06:58
-4ba65e0f-b929-4876-a404-bb633405f7e7,sunset.diet,premium,2660,2660,high,low,6,namesilo,,,
+4ba65e0f-b929-4876-a404-bb633405f7e7,sunset.diet,premium,2660,2660,high,low,6,namesilo,,,28/09/2026 01:58
 7acc47f1-9cbd-44d3-ab8a-3e66e486341f,wolfgang.diet,available,104.99,114.99,high,low,8,namesilo,,,25/09/2026 15:09
-e2372c52-03e2-43ac-b59a-3e2c1e8e58e7,theist.diet,available,104.99,114.99,high,low,6,namesilo,,,11/09/2026 12:37
+e2372c52-03e2-43ac-b59a-3e2c1e8e58e7,theist.diet,available,104.99,114.99,medium,low,6,namesilo,,,11/09/2026 12:37
 6a105d8c-db27-4b9e-9de3-e483b538a94a,fervent.diet,available,104.99,114.99,high,low,7,namesilo,,,06/08/2026 16:14
-8a5f111a-8f04-4410-85dc-be411505028b,hie.diet,available,108.98,159.98,high,low,3,namecheap,,,09/09/2026 19:49
+8a5f111a-8f04-4410-85dc-be411505028b,hie.diet,available,108.98,159.98,medium,low,3,namecheap,,,09/09/2026 19:49
 8e59370f-08cb-40fa-96e0-da88b9c69ad9,organize.diet,available,104.99,114.99,high,low,8,namesilo,,,23/09/2026 23:13
 b03d41ef-4805-4760-a054-90b2f48e522d,unbeatable.diet,available,104.99,114.99,high,low,10,namesilo,,,25/09/2026 11:12
 e27ded32-f968-4905-a040-5a846442da1c,vital.diet,available,108.98,159.98,high,low,5,namecheap,,,18/08/2026 18:16
@@ -748,7 +759,7 @@ bd447f8e-160f-4484-8d8b-1c5af1d1081a,populations.diet,available,299.99,299.99,me
 468b08cc-c6d8-4665-980d-61d66236cfa9,scouser.diet,available,104.99,114.99,medium,low,7,namesilo,,,24/08/2026 08:11
 c42b027f-1c7f-4a1d-be89-1a2235479374,betaine.diet,available,104.99,114.99,medium,low,7,namesilo,,,23/09/2026 11:03
 8b43a26d-ad85-44a4-9b65-e934c844417d,respondents.diet,available,104.99,114.99,medium,low,11,namesilo,,,25/09/2026 21:41
-8325f8d9-90c4-447a-814e-7d8176564320,picker.diet,available,104.99,114.99,high,low,6,namesilo,,,24/09/2026 14:45
+8325f8d9-90c4-447a-814e-7d8176564320,picker.diet,available,104.99,114.99,medium,low,6,namesilo,,,24/09/2026 14:45
 e689feed-5d26-4a66-8c53-f2033e999785,fireproof.diet,available,104.99,114.99,high,low,9,namesilo,,,18/08/2026 05:07
 99a1705b-cade-4ff8-a6c8-547f47d4b2e7,bigger.diet,available,108.98,159.98,high,low,6,namecheap,,,22/09/2026 20:34
 5386e73a-21b9-4295-b82d-f95e95decd0e,feeder.diet,available,108.98,159.98,high,low,6,namecheap,,,12/08/2026 21:09
@@ -763,7 +774,7 @@ ca357f30-a8ff-4ee0-a832-8c5cd418f2e7,gazillion.diet,available,108.98,159.98,high
 6fa4ecde-dc5f-4310-895f-3ed91a04ccfc,walter.diet,available,104.99,114.99,high,medium,6,namesilo,,,25/09/2026 03:36
 8b41cf43-aaa9-4716-a873-e4f162eadfc0,blackburn.diet,available,104.99,114.99,high,low,9,namesilo,,,24/09/2026 02:11
 2642e24f-877a-4c43-8bd7-de463e8bc874,sup.diet,available,159.98,,high,low,3,namecheap,,,
-d7eb4e66-eb08-433a-92ab-af7c7ff18083,spanish.diet,available,104.99,114.99,high,low,7,namesilo,,,
+d7eb4e66-eb08-433a-92ab-af7c7ff18083,spanish.diet,available,104.99,114.99,high,low,7,namesilo,,,28/09/2026 00:05
 09956143-12d9-4708-8591-d6c071be8fee,motherly.diet,available,104.99,114.99,high,low,8,namesilo,,,25/08/2026 07:06
 e7011056-ce40-4882-96d6-7cb61fe98dad,cob.diet,available,104.99,114.99,high,low,3,namesilo,,,23/09/2026 23:42
 f04b4153-f9b4-4a31-a85c-08574494b46e,ancestral.diet,available,104.99,114.99,high,low,9,namesilo,,,
@@ -777,6 +788,7 @@ ecb9b76c-b23d-4f68-bac3-236efc228320,raucous.diet,available,104.99,114.99,high,m
 78126d21-dfef-4926-bbd0-039fa5110c69,elected.diet,available,104.99,114.99,high,low,7,namesilo,,,16/08/2026 02:35
 2b0cc09a-d593-40a9-934c-0f6bf46fa58f,adenosine.diet,available,104.99,114.99,medium,low,9,namesilo,,,17/09/2026 07:32
 cb150f6f-0b5c-4ed7-9cb6-a1b55fb9e7e0,cordate.diet,available,104.99,114.99,high,low,7,namesilo,,,13/08/2026 00:50
+2c354b98-9bd3-4b93-8515-15ef02c52876,lung.diet,available,104.99,114.99,high,low,4,namesilo,,,27/09/2026 14:50
 09e78e37-e455-460a-8e28-9d5573271208,midland.diet,available,104.99,114.99,high,low,7,namesilo,,,24/08/2026 22:36
 b1ea8151-445f-4794-9327-b5cf8272e324,philadelphia.diet,available,104.99,114.99,high,low,12,namesilo,,,
 26e55a63-0371-4956-9ae5-4c163533fa06,infatuated.diet,available,104.99,114.99,high,low,10,namesilo,,,16/08/2026 21:11
@@ -785,11 +797,12 @@ b1ea8151-445f-4794-9327-b5cf8272e324,philadelphia.diet,available,104.99,114.99,h
 38f10497-5116-4dd2-bb33-2f6d95f60606,trendy.diet,available,108.98,159.98,high,low,6,namecheap,,,11/09/2026 19:19
 0a143cad-d370-4fa2-ac5d-b577cf8c6b5e,platitude.diet,available,108.98,159.98,medium,low,9,namecheap,,,12/08/2026 19:12
 c0deafd4-e63c-48d1-8be3-fecbd45ad730,several.diet,available,104.99,114.99,high,low,7,namesilo,,,
+1cdb3a0d-cf4b-4306-bdc7-ca4fee04909c,gonzales.diet,available,107.22,107.22,medium,low,8,dynadot,,,27/09/2026 20:26
 6b975afb-de57-437e-b0b7-8af5aef23582,dating.diet,available,159.98,,high,low,6,namecheap,,,
 926b2fa5-451b-4d97-bc24-18ec1f2e5d60,unsealed.diet,available,108.98,159.98,medium,low,8,namecheap,,,12/09/2026 19:07
 a28c4f12-98c7-4b91-b6f0-f02951f37268,modish.diet,available,104.99,114.99,high,low,6,namesilo,,,
 ebc36c2f-5aea-459e-9e02-05c5f5ab2ece,imaginary.diet,available,108.98,159.98,high,low,9,namecheap,,,21/08/2026 20:16
-19d8f241-5b49-4397-a56a-edbf8e01f14d,inductive.diet,available,104.99,114.99,high,low,9,namesilo,,,22/08/2026 03:29
+19d8f241-5b49-4397-a56a-edbf8e01f14d,inductive.diet,available,104.99,114.99,medium,low,9,namesilo,,,22/08/2026 03:29
 0d82bc13-a07a-4a65-8cf7-20370714502e,mothy.diet,available,104.99,114.99,low,low,5,namesilo,,,25/08/2026 07:14
 ee1bcd9a-124c-48d0-852a-c02f641b2f2e,neurologic.diet,available,104.99,114.99,medium,low,10,namesilo,,,03/09/2026 16:16
 ff55ae36-1039-4ace-b047-1da21a6bc5ef,cropped.diet,available,104.99,114.99,high,low,7,namesilo,,,13/08/2026 07:53
@@ -797,16 +810,17 @@ ff55ae36-1039-4ace-b047-1da21a6bc5ef,cropped.diet,available,104.99,114.99,high,l
 91ce67bc-8661-40ce-83e3-0b9bade543f8,employed.diet,available,108.98,159.98,high,low,8,namecheap,,,16/08/2026 18:24
 ac1e80ba-4581-49ed-aab3-a42df221d333,antipodean.diet,available,104.99,114.99,medium,low,10,namesilo,,,
 197e593b-5294-4a1c-b2e2-c7716933731a,theyre.diet,available,104.99,114.99,medium,low,6,namesilo,,,
-d28b39ff-1d58-4016-9366-990f2cf25e61,pout.diet,available,108.98,159.98,high,low,4,namecheap,,,18/09/2026 18:12
+d28b39ff-1d58-4016-9366-990f2cf25e61,pout.diet,available,108.98,159.98,medium,low,4,namecheap,,,18/09/2026 18:12
 5dd56c68-6434-49e3-a08d-c23bae7fe8e6,demonstration.diet,available,104.99,114.99,high,low,13,namesilo,,,
 8422d93d-296a-48f7-be95-53bcc4febd71,consistently.diet,available,104.99,114.99,high,low,12,namesilo,,,
 a6a8db94-29bd-4dbc-9c6d-82316390f95c,pied.diet,available,104.99,114.99,high,low,4,namesilo,,,03/09/2026 10:39
 be69d700-c770-41a0-9983-2b15def0343a,arrives.diet,available,108.98,159.98,medium,low,7,namecheap,,,20/09/2026 01:05
 de363d65-144d-415a-812f-462485db0f6a,lockbox.diet,available,104.99,114.99,high,low,7,namesilo,,,
 e61500bd-ac39-4925-a999-8c45aad1b73b,ergo.diet,premium,2600,2600,high,low,4,namecheap,,,14/09/2026 15:56
+9fea0ab6-a683-4167-a145-bc3edfd190f9,specialist.diet,available,214.99,214.99,high,low,10,godaddy,,,28/09/2026 02:23
 39be2c9f-25de-4d7d-9599-e369b470b43d,niggers.diet,available,104.99,114.99,low,low,7,namesilo,,,16/09/2026 14:20
 a55bd420-f025-46b5-83e2-cd65c71131e3,jared.diet,available,104.99,114.99,high,low,5,namesilo,,,27/09/2026 11:10
-357e0e48-5f56-428e-86b1-29fe52b1dfb7,fingered.diet,available,104.99,114.99,high,low,8,namesilo,,,18/08/2026 04:53
+357e0e48-5f56-428e-86b1-29fe52b1dfb7,fingered.diet,available,104.99,114.99,medium,low,8,namesilo,,,18/08/2026 04:53
 545e5b86-e71f-4bd5-922e-584ac0bdebe8,crouch.diet,available,104.99,114.99,medium,low,6,namesilo,,,10/09/2026 17:37
 b239d479-fe27-467e-bbe6-d1f4549698c4,fractions.diet,available,104.99,114.99,medium,low,9,namesilo,,,20/09/2026 01:27
 a514855c-9747-4e93-bcdf-22e4c479d237,bahaism.diet,available,108.98,159.98,medium,low,7,namecheap,,,21/09/2026 18:33
@@ -861,9 +875,11 @@ d8ab4362-52ce-4c87-8970-11548911279f,scholarship.diet,available,104.99,114.99,hi
 10c5f087-19dd-48b7-85bd-679a380efa97,compulsory.diet,available,108.98,159.98,high,low,10,namecheap,,,23/09/2026 18:17
 ef4faef5-18e7-4bd5-828f-433b1c190105,conquering.diet,available,104.99,114.99,high,low,10,namesilo,,,24/09/2026 17:24
 5b266021-864c-43de-bc2b-fc1dc558deea,weeping.diet,available,104.99,114.99,high,low,7,namesilo,,,12/08/2026 00:52
+84f8c952-87c7-402a-9896-867503c20288,eli.diet,available,93.35,103.4,high,low,3,spaceship,,,27/09/2026 18:02
 049e078d-1ea4-4af0-a341-961f7c14bed6,bethune.diet,available,104.99,114.99,medium,low,7,namesilo,,,23/09/2026 11:17
 5d9fac71-706d-410a-bfd7-8926072cd1c5,induced.diet,available,104.99,114.99,high,low,7,namesilo,,,22/08/2026 03:27
 39fd176e-8d7e-4ad2-b61b-2bf41b418b67,aluminum.diet,available,108.98,159.98,high,low,8,namecheap,,,18/09/2026 00:21
+1dd507c7-2c8a-427f-ac0c-18cf15a07560,corporation.diet,available,104.99,114.99,high,low,11,namesilo,,,27/09/2026 16:41
 b02729c2-1926-4184-82bc-9e285e19544b,prohibited.diet,available,104.99,114.99,medium,low,10,namesilo,,,08/08/2026 13:48
 56ab4ac8-3754-43ea-8398-fd104ff60d99,radios.diet,available,108.98,159.98,medium,low,6,namecheap,,,18/09/2026 23:09
 bdb049de-9cd0-4d3a-8cee-6a39f7484b42,fuddled.diet,available,104.99,114.99,low,low,7,namesilo,,,09/08/2026 15:36
@@ -905,7 +921,7 @@ b472ef2c-f350-46b0-8ae6-30444f2f95f3,whiney.diet,available,104.99,114.99,medium,
 e8440e8a-9544-401f-bb1a-6c4574ba8edc,extension.diet,available,104.99,114.99,high,low,9,namesilo,,,
 f9ed83b8-bdd1-4251-b284-650b6912d3e8,satiated.diet,available,108.98,159.98,high,low,8,namecheap,,,09/09/2026 21:39
 776f2af8-6bb2-4493-842d-d008608d7d0b,deviant.diet,available,104.99,114.99,high,low,7,namesilo,,,
-917e0a8d-5433-47c9-ac85-0e094227b444,bergson.diet,available,104.99,114.99,high,low,7,namesilo,,,23/09/2026 09:22
+917e0a8d-5433-47c9-ac85-0e094227b444,bergson.diet,available,104.99,114.99,medium,low,7,namesilo,,,23/09/2026 09:22
 a21d5848-3808-4b54-a1e1-c978b04d8455,cambodian.diet,available,104.99,114.99,high,low,9,namesilo,,,11/08/2026 15:40
 ffb2add0-f211-48fa-ae16-32da217e2e5c,horsefish.diet,available,108.98,159.98,medium,low,9,namecheap,,,20/09/2026 21:39
 36b21144-b0f5-488b-b0e9-eae26b1c86a2,sincerely.diet,available,104.99,114.99,high,low,9,namesilo,,,
@@ -923,7 +939,7 @@ e6c5cb11-919f-4d7e-bd64-7fa1c9a9555b,albescent.diet,available,104.99,114.99,medi
 8a5d08c3-b7b1-4ce7-b627-807dbddf304b,strikingly.diet,available,104.99,114.99,medium,low,10,namesilo,,,16/09/2026 07:22
 2ccf6312-e393-4c8c-bd42-a3eb6576f69c,dairy.diet,available,104.99,114.99,high,low,5,namesilo,,,26/09/2026 00:42
 2a6b7685-b6ab-48e1-b158-27da60ace65d,upchuck.diet,available,104.99,114.99,high,medium,7,namesilo,,,10/09/2026 07:41
-4b2a99c6-65d8-4515-b7ed-d0b40d88414a,lupine.diet,available,104.99,114.99,high,low,6,namesilo,,,24/08/2026 11:39
+4b2a99c6-65d8-4515-b7ed-d0b40d88414a,lupine.diet,available,104.99,114.99,medium,low,6,namesilo,,,24/08/2026 11:39
 efa2569e-3747-4b85-9a4c-49cf309aaab9,planate.diet,available,104.99,114.99,medium,low,7,namesilo,,,18/08/2026 06:53
 2d4f16ac-20c4-498e-aa10-229f125f9b63,alienated.diet,available,104.99,114.99,medium,low,9,namesilo,,,
 29ae7a11-85fd-480f-aeca-01dc45586cb0,astatine.diet,available,104.99,114.99,medium,low,8,namesilo,,,20/09/2026 16:55
@@ -957,45 +973,29 @@ b8087670-c08f-448f-b292-bcb6e73cb8d6,baize.diet,available,108.98,159.98,medium,l
 28311855-4e43-48df-a16c-bd3ea4683fbc,tubeless.diet,available,108.98,159.98,high,low,8,namecheap,,,11/09/2026 20:58
 995a60cb-0146-44ef-a244-8e60e01516a7,aphonic.diet,available,104.99,114.99,medium,low,7,namesilo,,,05/08/2026 23:17
 0fd92149-9499-4226-85a4-c47921dd5fbf,giacometti.diet,available,104.99,114.99,high,low,10,namesilo,,,18/09/2026 02:46
-66dbc793-c416-490f-b7e9-cf984ee4f733,diminishing.diet,available,159.98,,high,low,11,namecheap,,,
+66dbc793-c416-490f-b7e9-cf984ee4f733,diminishing.diet,available,159.98,,medium,low,11,namecheap,,,
 e09516fa-dcb3-4048-9c3a-d8ea72101810,embryonic.diet,available,104.99,114.99,medium,low,9,namesilo,,,16/08/2026 13:28
-b6d34286-b7ac-4d66-85f4-7c840dc46a50,blurred.diet,available,104.99,114.99,high,low,7,namesilo,,,22/09/2026 23:21
+b6d34286-b7ac-4d66-85f4-7c840dc46a50,blurred.diet,available,104.99,114.99,medium,low,7,namesilo,,,22/09/2026 23:21
 1a112be0-c3c3-4600-83f3-b7d7ea8797d5,pare.diet,available,108.98,159.98,high,low,4,namecheap,,,11/09/2026 20:00
 95c1782b-95ba-4625-acf9-e4ef6577fe59,drugged.diet,available,108.98,159.98,medium,low,7,namecheap,,,14/08/2026 20:06
 569c39b0-8983-4b6b-ad2f-70c4ae03afc9,callable.diet,available,104.99,114.99,medium,low,8,namesilo,,,11/08/2026 14:26
 fccefbb4-2d45-4f8d-9b11-78542f5399a0,wittily.diet,available,104.99,114.99,medium,low,7,namesilo,,,16/09/2026 11:35
-885d37fa-7134-4adf-94d6-0380fe7871ed,unhurried.diet,available,104.99,114.99,high,low,9,namesilo,,,12/09/2026 12:39
+7b0cee06-bbf7-4b71-af0a-f3acb39941a2,munro.diet,available,100.2,100.2,high,low,5,cloudflare,,,27/09/2026 13:53
+885d37fa-7134-4adf-94d6-0380fe7871ed,unhurried.diet,available,104.99,114.99,medium,low,9,namesilo,,,12/09/2026 12:39
 c8944ca3-604b-47cb-9280-d78db1fe463c,hanger.diet,available,159.98,,medium,low,6,namecheap,,,
 7d819360-72d7-4e6c-9055-5b516e65fc0f,uncarved.diet,available,104.99,114.99,medium,low,8,namesilo,,,12/09/2026 04:48
 380041db-8ced-42ef-bcc5-020ff9dae98b,results.diet,available,104.99,114.99,high,low,7,namesilo,,,
-9add221c-60ad-40be-bdb2-ca018afdc330,scream.diet,available,104.99,114.99,high,low,6,namesilo,,,
+bc15c70b-ef8c-4a1f-ae9c-605f76e6f045,scotland.diet,available,104.99,114.99,high,low,8,namesilo,,,27/09/2026 15:44
+9add221c-60ad-40be-bdb2-ca018afdc330,scream.diet,available,93.35,103.4,high,low,6,spaceship,,,27/09/2026 18:35
 96d647a2-287d-46be-b39a-c69845927967,hindustani.diet,available,104.99,114.99,medium,low,10,namesilo,,,21/08/2026 09:35
 74ba9cfb-47d7-447d-86dc-195ee2a5686f,erratic.diet,available,104.99,114.99,high,low,7,namesilo,,,17/08/2026 12:46
-ca119b3d-9b7e-4cd7-bc92-eb66cbfe08f1,abkhaz.diet,available,104.99,114.99,high,low,6,namesilo,,,
+ca119b3d-9b7e-4cd7-bc92-eb66cbfe08f1,abkhaz.diet,available,104.99,114.99,medium,low,6,namesilo,,,
 cd157089-43e4-4b9c-848e-d2a2d0773513,whiz.diet,available,108.98,159.98,high,low,4,namecheap,,,21/09/2026 18:01
 35060018-13b6-47ec-b2e9-7e520d36efb0,septuple.diet,available,104.99,114.99,medium,low,8,namesilo,,,10/09/2026 04:23
 04a3a5fc-e063-448b-a3d5-77a690b51ce2,angora.diet,available,104.99,114.99,high,low,6,namesilo,,,19/09/2026 07:06
 76477798-d6b3-4bc2-88a9-96167d94aed9,plodder.diet,available,108.98,159.98,medium,low,7,namecheap,,,10/09/2026 20:23
-a437deca-f7fe-4d78-a811-151925ab46a9,regular.diet,available,104.99,114.99,high,low,7,namesilo,,,
+a437deca-f7fe-4d78-a811-151925ab46a9,regular.diet,available,108.98,159.98,high,low,7,namecheap,,,27/09/2026 11:38
 0a19c2d7-5baf-4585-95f1-2f9a2ee7bd3d,widgeon.diet,available,104.99,114.99,medium,low,7,namesilo,,,19/09/2026 02:58
-f8697612-37b3-45bb-b763-0200345c6fc0,beggar.diet,available,108.98,159.98,high,low,6,namecheap,,,23/09/2026 02:08
+f8697612-37b3-45bb-b763-0200345c6fc0,beggar.diet,available,108.98,159.98,medium,low,6,namecheap,,,23/09/2026 02:08
 29b46e3a-ced7-4aff-93dd-39255e1b7c9c,demurely.diet,available,104.99,114.99,medium,low,8,namesilo,,,14/09/2026 11:31
 f7d6a1ed-226e-4088-b0fa-4ee1e0365a6b,advantage.diet,available,104.99,114.99,high,low,9,namesilo,,,
-799625b0-b501-499f-9da0-46572ad308af,ordain.diet,available,104.99,114.99,high,low,6,namesilo,,,12/08/2026 22:27
-c65f30f4-f8dc-4f15-9ea0-a34549daed54,irksome.diet,available,108.98,159.98,medium,low,7,namecheap,,,10/08/2026 20:01
-86bb48d2-5404-442f-9f51-4044de8eb24f,fanta.diet,premium,2800,2800,high,low,5,namecheap,,,
-8cba0335-00ea-45be-b0e3-3b03fb0bd959,skies.diet,available,108.98,159.98,high,low,5,namecheap,,,18/09/2026 07:49
-6d5ad6ea-a350-4a06-9e9c-c8b4bc111d52,multiple.diet,available,104.99,114.99,high,low,8,namesilo,,,25/09/2026 22:06
-0e010878-2643-43dd-86a7-a466938eb4e3,pasty.diet,available,104.99,114.99,high,low,5,namesilo,,,20/08/2026 15:21
-2d1ab1bd-dbc1-42e9-9c87-65c1cdc197af,adds.diet,available,104.99,114.99,medium,low,4,namesilo,,,18/09/2026 14:32
-210b8640-b2a3-416d-8df7-807def8a3ede,daytime.diet,available,104.99,114.99,high,low,7,namesilo,,,
-90596198-3b73-49d5-87fa-a450b47c0bd1,muntjac.diet,available,108.98,159.98,medium,low,7,namecheap,,,22/09/2026 06:28
-92c249fb-bcab-4a00-8e6e-af55c63151a0,flooring.diet,available,104.99,114.99,high,low,8,namesilo,,,
-335326a1-8ad3-49d7-8b83-771b23a645eb,arouet.diet,available,104.99,114.99,medium,low,6,namesilo,,,20/09/2026 08:30
-caaadd6b-abcb-49d8-b7ec-66a76b1b6ed8,bringing.diet,available,159.98,,high,low,8,namecheap,,,
-2c6a56ae-0a5f-4bea-934f-259f50b08d64,faceted.diet,available,108.98,159.98,high,low,7,namecheap,,,17/08/2026 20:24
-a37bb563-6a32-4bae-9a5e-b25e35e7fe79,diamond.diet,premium,832,832,high,low,7,namesilo,,,21/09/2026 16:47
-568e47cf-66dc-41b5-9289-6f387f47e569,conjoin.diet,available,104.99,114.99,high,low,7,namesilo,,,13/09/2026 09:37
-76f7ca0b-19a4-41d8-bb80-1b4ee2614ea7,reclusive.diet,available,104.99,114.99,medium,low,9,namesilo,,,09/09/2026 11:40
-6411664e-3681-445e-8066-76e8fe452a69,idyl.diet,available,104.99,114.99,high,low,4,namesilo,,,08/09/2026 10:13
-90f2984d-ec3b-489f-a97d-411fb4029c7b,blowback.diet,available,108.98,159.98,medium,low,8,namecheap,,,21/09/2026 15:28
