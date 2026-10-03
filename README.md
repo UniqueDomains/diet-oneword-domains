@@ -1,10 +1,10 @@
-# Available .DIET One-Word Domains (34,256)
+# Available .DIET One-Word Domains (36,690)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C256%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C690%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .diet one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **34,256 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,690 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 34,256 domains · **Median ask:** $169.16 · **High-demand under $2,500:** 131
+**Public extract:** 1,000 rows · **Live catalog:** 36,690 domains · **Median ask:** $166.90 · **High-demand under $2,500:** 142
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/diet`
 **Best for:** founders, investors, studios
 
@@ -68,8 +68,10 @@ print(df.head())
 | awesome.diet | resell    | —         | —             | high           | medium | 7      | 1API GmbH |
 | adp.diet     | premium   | $2,660    | $2,660        | high           | high   | 3      | namesilo  |
 | adi.diet     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo  |
-| ask.diet     | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo  |
+| anz.diet     | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship |
 | bed.diet     | available | $107.22   | $107.22       | high           | low    | 3      | dynadot   |
+| ask.diet     | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo  |
+| bts.diet     | available | $108.98   | $159.98       | high           | low    | 3      | namecheap |
 | bce.diet     | premium   | $2,660    | $2,660        | medium         | low    | 3      | namesilo  |
 | cop.diet     | available | $104.99   | $114.99       | high           | low    | 3      | namesilo  |
 | cat.diet     | premium   | $845      | $845          | high           | high   | 3      | namecheap |
@@ -79,11 +81,9 @@ print(df.head())
 | pop.diet     | premium   | $832      | $832          | high           | medium | 3      | namesilo  |
 | dar.diet     | available | $107.22   | $107.22       | high           | low    | 3      | dynadot   |
 | sap.diet     | premium   | $2,183.84 | $2,183.84     | high           | low    | 3      | porkbun   |
-| doe.diet     | available | $93.35    | $103.40       | high           | low    | 3      | spaceship |
-| cake.diet    | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo  |
-| eir.diet     | available | $93.35    | $103.40       | high           | low    | 3      | spaceship |
+| dei.diet     | available | $108.98   | $159.98       | high           | low    | 3      | namecheap |
 | here.diet    | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo  |
-| fix.diet     | available | $108.98   | $159.98       | high           | low    | 3      | namecheap |
+| doe.diet     | available | $93.35    | $103.40       | high           | low    | 3      | spaceship |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 34,256 live domains                        |
+| 1,000-row public sample | 36,690 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 131 high-demand names under $2,500         |
+| Basic exported fields   | 142 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIET One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
